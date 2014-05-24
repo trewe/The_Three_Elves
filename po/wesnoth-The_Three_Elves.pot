@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-25 13:30+0000\n"
+"POT-Creation-Date: 2014-05-24 16:46+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2308,17 +2308,17 @@ msgid "Elvish Hunter"
 msgstr ""
 
 #. [unit_type]: id=Elvish Hunter, race=elf
-#: The_Three_Elves/units/Elvish_Hunter.cfg:32
+#: The_Three_Elves/units/Elvish_Hunter.cfg:31
 msgid "The elvish militia is mainly composed of civilians who have dropped their bows in favour of entangling unwary oponents using their bolas, and then finish them off with their swords. They are trained to scour the woods, hills and mountains for prey and enemies."
 msgstr ""
 
 #. [attack]: type=impact
-#: The_Three_Elves/units/Elvish_Hunter.cfg:50 The_Three_Elves/units/Elvish_Prowler.cfg:51 The_Three_Elves/units/Elvish_Trapper.cfg:50
+#: The_Three_Elves/units/Elvish_Hunter.cfg:49 The_Three_Elves/units/Elvish_Prowler.cfg:51 The_Three_Elves/units/Elvish_Trapper.cfg:50
 msgid "bolas"
 msgstr ""
 
 #. [female]
-#: The_Three_Elves/units/Elvish_Hunter.cfg:159
+#: The_Three_Elves/units/Elvish_Hunter.cfg:158
 msgid "female^Elvish Hunter"
 msgstr ""
 
