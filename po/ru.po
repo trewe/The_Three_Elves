@@ -1,0 +1,1997 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-07-30 11:26+0300\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"PO-Revision-Date: \n"
+"Last-Translator: iven, olga_flox, marat <maratelektron@rambler.ru>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.7.4\n"
+
+#: _main.cfg:11
+msgid "The Three Elves"
+msgstr "Три эльфа"
+
+#: _main.cfg:12
+msgid "TTE"
+msgstr "ТЭ"
+
+#: _main.cfg:16
+msgid "Three elves have just begun their adventure in the northern swampland. Will they become heroes or will they be responsible for another undead expansion?\n"
+msgstr "Для трёх эльфов, которые отправились на северные болота, начинается полный опасных приключений путь. Станут ли они героями или приведут мир на край гибели?\n"
+
+#: _main.cfg:19
+msgid "(Novice level, 8 scenarios)"
+msgstr "(Для новичков, 8 сценариев)"
+
+#: _main.cfg:24 scenarios/1_Into_the_swamp.cfg:183
+msgid "Archer"
+msgstr "Лучник"
+
+#: _main.cfg:24
+msgid "(Easy)"
+msgstr "(Легко)"
+
+#: _main.cfg:26
+msgid "Avenger"
+msgstr "Мститель"
+
+#: _main.cfg:26
+msgid "(Hard)"
+msgstr "(Трудно)"
+
+#: credits.cfg:6
+msgid "Campaign Design"
+msgstr "Разработка кампании"
+
+#: credits.cfg:12
+msgid "Text corrections"
+msgstr "Корректор текта"
+
+#: credits.cfg:18
+msgid "Campaign Maintenance"
+msgstr "Поддержка кампании"
+
+#: credits.cfg:24
+msgid "Previous Campaign Maintenance"
+msgstr "Поддержка кампании"
+
+#: credits.cfg:30
+msgid "Translations"
+msgstr "Переводы"
+
+#: credits.cfg:41
+msgid "Also many thanks to:"
+msgstr "Особая благодарность:"
+
+#: scenarios/1_Into_the_swamp.cfg:5
+msgid "1) Into the swamp"
+msgstr "1) В глубь болот"
+
+#: scenarios/1_Into_the_swamp.cfg:23
+msgid "The Northern swamp is incredibly dangerous place full of undead, constantly seeking their vengeance against all living creatures. Only a fool would venture into these lands. Though three elven warriors have recently entered, looking for an adventure."
+msgstr "Опасное это место - Северное Болото. Испокон веку изрыгает оно из своих глубин разлагающихся мертвяков, которые ищут погибели всем живым существам. Только безумец отважится направить свой путь в эти гнилые земли... Но однажды в поисках приключений оказались здесь три эльфийских воина."
+
+#: scenarios/1_Into_the_swamp.cfg:27
+msgid "Viliam Bur and Stanislav Hoferek wish you a lot of fun and, of course, many successful battles."
+msgstr "Viliam Bur и Stanislav Hoferek желают вам хорошо провести время и одержать великие победы."
+
+#: scenarios/1_Into_the_swamp.cfg:35 scenarios/1_Into_the_swamp.cfg:61
+#: scenarios/2_The_golden_chest.cfg:44 scenarios/3_Rise_of_the_undead.cfg:40
+#: scenarios/4_The_great_march.cfg:48 scenarios/5_Party_for_vultures.cfg:48
+#: scenarios/5_Party_for_vultures.cfg:110
+#: scenarios/5_Party_for_vultures.cfg:144 scenarios/6_Final_assault.cfg:43
+#: scenarios/6_Final_assault.cfg:68 scenarios/6_Final_assault.cfg:91
+#: scenarios/6_Final_assault.cfg:122 scenarios/7_Assassins.cfg:33
+#: scenarios/8_A_new_alliance.cfg:34 scenarios/8_A_new_alliance.cfg:59
+#: scenarios/Interlude_river_crossing.cfg:31
+#: scenarios/Interlude2_a_new_way.cfg:23
+msgid "teamname^Elves"
+msgstr "Эльфы"
+
+#: scenarios/1_Into_the_swamp.cfg:38 scenarios/2_The_golden_chest.cfg:48
+#: scenarios/3_Rise_of_the_undead.cfg:43 scenarios/4_The_great_march.cfg:51
+#: scenarios/5_Party_for_vultures.cfg:51 scenarios/6_Final_assault.cfg:48
+#: scenarios/7_Assassins.cfg:44 scenarios/8_A_new_alliance.cfg:43
+#: scenarios/Interlude2_a_new_way.cfg:25
+#: scenarios/Interlude2_a_new_way.cfg:168
+msgid "Merhil"
+msgstr "Мирхайл"
+
+#: scenarios/1_Into_the_swamp.cfg:64 scenarios/2_The_golden_chest.cfg:91
+#: scenarios/3_Rise_of_the_undead.cfg:87
+msgid "Teddy"
+msgstr "Тедди"
+
+#: scenarios/1_Into_the_swamp.cfg:73 scenarios/1_Into_the_swamp.cfg:75
+msgid "Blob"
+msgstr "Блоб"
+
+#: scenarios/1_Into_the_swamp.cfg:85 scenarios/1_Into_the_swamp.cfg:119
+#: scenarios/3_Rise_of_the_undead.cfg:84
+#: scenarios/3_Rise_of_the_undead.cfg:107
+#: scenarios/3_Rise_of_the_undead.cfg:129
+#: scenarios/3_Rise_of_the_undead.cfg:187 scenarios/4_The_great_march.cfg:94
+#: scenarios/4_The_great_march.cfg:116 scenarios/5_Party_for_vultures.cfg:167
+#: scenarios/5_Party_for_vultures.cfg:188
+#: scenarios/5_Party_for_vultures.cfg:209
+#: scenarios/5_Party_for_vultures.cfg:230 scenarios/6_Final_assault.cfg:156
+#: scenarios/6_Final_assault.cfg:177 scenarios/6_Final_assault.cfg:198
+#: scenarios/Interlude_river_crossing.cfg:47
+msgid "teamname^Undead"
+msgstr "Мёртвые"
+
+#: scenarios/1_Into_the_swamp.cfg:100
+msgid "Mal'Der"
+msgstr "Мал'Дер"
+
+#: scenarios/1_Into_the_swamp.cfg:132
+msgid "Kad'Len"
+msgstr "Кад'Лен"
+
+#: scenarios/1_Into_the_swamp.cfg:165
+msgid ""
+"Greetings! My name is Lahias. Choose the path which I shall follow.\n"
+"\n"
+"I can become a dexterous archer, a sturdy fighter, balanced hunter or a quick scout. Everything is in your hands, now. These tips may help you:\n"
+"\n"
+"As <b>Archer</b> he excels in ranged attacks. He is unmatched in the forests, but he's also very vulnerable out of them. He may also learn how to conceal himself in the woods.\n"
+"\n"
+"The <b>Fighter</b> endures most of the melee combats and disposes of remarkable defense. He may also learn the leadership ability in time.\n"
+"\n"
+"<b>Hunters</b> are a very versatile unit, very useful at nightime, but weak during day. His power will grow rapidly with time.\n"
+"\n"
+"The <b>Scout</b> is great at exploring and quick diversions on the battlefield but misses the attack force. It is NOT a very wise choice for this campaign."
+msgstr ""
+"Моё почтение! Позвольте представиться: меня зовут Лахиас, ударение на первом слоге, да, вот так, спасибо. Отдаю свою судьбу в твои руки.\n"
+"\n"
+" Я могу стать ловким лучником, крепким бойцом, отличным охотником или быстрым, как сокол, разведчиком. Выбирай! А я, может, что полезное подскажу:\n"
+"\n"
+" <b>Лучник</b> силён в дальних атаках, и в лесу неплохо оборону держит. Нет ему равных в родной стихии. Вот, правда, без лесов лучнику туго приходится. И, кстати, со временем лучник научится укрываться в лесных чащах от посторонних глаз.\n"
+"\n"
+"А <b>Боец</b> просто рождён для ближнего боя. Нет защиты, которая устояла бы против его ловких ударов, а когда-нибудь такой храбрец окажется достойным повести за собою других воинов.\n"
+"\n"
+"<b>Охотники</b> и в ближнем, и в дальнем бою хороши. Особенно опасны они в ночную пору, но днём от них толку мало, хотя опыта они набираются быстро, и со временем могут приятно удивить.\n"
+"\n"
+"<b>Разведчики</b> стрелой проносятся по вражеским землям, никто не укроется от их зоркого глаза, но вот сдержать яростную атаку врага... Нет, выбрать разведчика — не самое лучшее решение для этой кампании."
+
+#: scenarios/1_Into_the_swamp.cfg:180
+msgid "Choose Lahias type"
+msgstr "Выберите тип Лахиаса"
+
+#: scenarios/1_Into_the_swamp.cfg:191 scenarios/1_Into_the_swamp.cfg:211
+#: scenarios/1_Into_the_swamp.cfg:232 scenarios/1_Into_the_swamp.cfg:252
+#: scenarios/6_Final_assault.cfg:159
+msgid "Lahias"
+msgstr "Лахиас"
+
+#: scenarios/1_Into_the_swamp.cfg:204
+msgid "Fighter"
+msgstr "Боец"
+
+#: scenarios/1_Into_the_swamp.cfg:224
+msgid "Hunter"
+msgstr "Охотник"
+
+#: scenarios/1_Into_the_swamp.cfg:245
+msgid "<i>Scout <small>(not recommended)</small></i>"
+msgstr "<i>Разведчик <small>(не рекомендуется)</small></i>"
+
+#: scenarios/1_Into_the_swamp.cfg:278
+msgid "Oh no, the undead! There is nothing interesting here. Go back from where you came, foul creatures! You won't get our souls."
+msgstr "О нет! Мертвецы! Проваливайте обратно в свои гнилые болота, поганые твари! Вам не достанутся наши души!"
+
+#: scenarios/1_Into_the_swamp.cfg:282
+msgid "Filthy peasants! Your souls are worthless, but your corpses will serve us well. And once we are finished here, we will move to the neighbouring villages. More mindless slaves to our command. Excellent!"
+msgstr "Вонючие крестьяне! Ваши жалкие души не стоят и ломаного гроша, но ваши трупы удостоятся чести прислуживать нам. И вы будете не одни. Как только подчиним вас, то направимся и в соседние деревни. Нам потребуется много тупых рабов!"
+
+#: scenarios/1_Into_the_swamp.cfg:286
+msgid "You leave us no other choice than to take our weapons and put your dark magic to an end. I know of your troops on our side of the river. We are not scared of you. To arms, men!"
+msgstr "У нас не осталось иного выхода. Нечисть уже перешла реку, они близко, пора положить этому край. К оружию, братья! Не устрашимся злых чар!"
+
+#: scenarios/1_Into_the_swamp.cfg:294
+msgid "Nerelia"
+msgstr "Нерелия"
+
+#: scenarios/1_Into_the_swamp.cfg:305
+msgid "What is it in front of me? It seams we arrived just in time. Can you spare some fun for us?"
+msgstr "Что я вижу? Кажется, мы прибыли вовремя. Оставите и нам немного развлечения?"
+
+#: scenarios/1_Into_the_swamp.cfg:309
+msgid "Let me see... Elves! What a fortunate coincidence. They will make excellent skeletons or perharps even ghosts. Attack, my minions!"
+msgstr "Кто это пожаловал?.. Эльфы! Какая удача! Из эльфов получаются не только изящные скелеты, но и шустрые призраки. Вперёд, мои верные слуги!"
+
+#: scenarios/1_Into_the_swamp.cfg:313
+msgid "Whoever you are, help us! We will give you all the gold we have."
+msgstr "Кто бы вы ни были, помогите нам! Мы отдадим всё золото, что у нас есть!"
+
+#: scenarios/1_Into_the_swamp.cfg:317
+msgid "Hm, this looks promising. And how much gold do you have?"
+msgstr "Хм, звучит заманчиво. И сколько там золота?"
+
+#: scenarios/1_Into_the_swamp.cfg:321
+msgid "Well, actually... We don't have any gold here with us. But, uhm... We can surely get you some. There is a great treasure burried near the river. It is a chest filled with gold! According to the legend, the chest is north-east of here, close to the old river basin. Somewhere in the center of this region. It was hidden by Alfred Mahel, famous master lumberjack. You can keep half of the entire treasure, if you manage to find it."
+msgstr "Нууу, на самом деле... При нас-то золота никакого и нету. Но, гмм... Но у реки упрятано сокровище. Цельный сундук золота! Вот токмо где именно он захоронен, про то не ведаем. Знаем лишь, что где-то там, отседова на северо-восток, около старого русла. Вот там его искать и надобно. А скрыл его там Альфред Мэхель, не последний дровосек в наших краях. Токмо ента, сразу положим: ежели скарб отыщите, то больше половины забирать не станете."
+
+#: scenarios/1_Into_the_swamp.cfg:325
+msgid "Prepare to die painfully! You will become my slaves and serve me for centuries!"
+msgstr "Приготовьтесь к мучительной гибели! Вы станете моими рабами на долгие века, пока тлен не сточит ваших костей!"
+
+#: scenarios/1_Into_the_swamp.cfg:329
+msgid "A few black-dressed clowns out of their mind and a chest full of gold ahead! Let the fun begin!"
+msgstr "Итак, у нас тут имеются несколько ряженных в чёрное шутов и полный золота сундук. Йо-хо! Позабавимся!"
+
+#: scenarios/1_Into_the_swamp.cfg:334
+msgid "Beware, Lahias! Don't run into the hardest battle. You won't have good chances to survive on your own. Remember, your attack is much stronger when you are fighting close to Merhil. The dark sorcerers have a very powerful attack. Though I can slow them with my magic before fighting them face to face."
+msgstr "Осторожней, Лахиас! Не лезь в одиночку в самую гущу битвы. Зачем рисковать понапрасну? Да и удары твои куда сильнее, когда ты сражаешься бок о бок с Мирхайлом. Не стоит недооценивать тёмных магов — их колдовство может оказаться смертельно опасным... единственное, я попытаюсь ослабить их своим волшебством, прежде, чем мы столкнёмся лицом к лицу."
+
+#: scenarios/1_Into_the_swamp.cfg:342
+msgid "Defeat both of the dark sorcerers"
+msgstr "Одолейте двух тёмных магов"
+
+#: scenarios/1_Into_the_swamp.cfg:346
+msgid "Find the hidden treasure"
+msgstr "Найдите скрытое сокровище"
+
+#: scenarios/1_Into_the_swamp.cfg:367
+msgid "The undead have been eliminated and you managed to find the treasure."
+msgstr "Вот и славно. Мертвяки разбиты и сокровище найдено."
+
+#: scenarios/1_Into_the_swamp.cfg:371
+msgid "Many thanks for your assistance, good elves! You will always be welcomed in our village."
+msgstr "Благодарствуем за помощь, благородные эльфы! В наших краях всегда вам рады будут."
+
+#: scenarios/1_Into_the_swamp.cfg:375
+msgid "Thank you... Farewell."
+msgstr "Спасибо за добрые слова... И прощайте."
+
+#: scenarios/1_Into_the_swamp.cfg:379
+msgid "Hey, wait! What about the treasure? Our share... Give it to us."
+msgstr "Погодьте! А со скарбом-то чё? Наша часть... Отдайте нам её."
+
+#: scenarios/1_Into_the_swamp.cfg:383
+msgid "You are mistaken, good man. There is no gold for you. The treasure is at good hands now - ours. Do you want it? Come to take it!"
+msgstr "Ты ошибся, добрый крестьянин, для вас в сундуке не было никакого золота. Ведь нельзя же так рисковать. А сокровище теперь в надёжных руках и ему ничего не угрожает. Что-то не нравится? Ну так подойти и возьми!"
+
+#: scenarios/1_Into_the_swamp.cfg:387
+msgid "Aaagrh! You will regret that! The waters of the river will lower soon. Then our united army will get that treasure... And your inhuman skulls as well!"
+msgstr "Архххх! Вы пожалеете о содеянном! Вскоре воды в реке опустятся и вот тогда-то наши силы до вас и доберутся, и не токмо своё сокровище отберём... но и ваши черепушки поганые!"
+
+#: scenarios/1_Into_the_swamp.cfg:391
+msgid "Oh, we are sooo scared! These <i>bloodthirsty</i> peasants are going to fight us. Did you hear that, my friends? Rather put down your weapons and draw feathers instead, we don't want to hurt them too much."
+msgstr "О, как мы испугались! Мерхайл, у тебя поджилки не трясутся? Поглядите, мои друзья, эти <i>кровожадные</i> селяне бросают нам вызов. Эй, вы, там, сложите-ка своё оружие, да поскорее! Мы не хотим причинять вам излишнюю боль."
+
+#: scenarios/1_Into_the_swamp.cfg:395
+msgid "They are ridiculous! We can hire enough warriors to defeat whole legion of peasants or undead."
+msgstr "Забавные они. Мы ведь можем нанять сколько угодно воинов и расправиться не только с толпою грязных крестьян, но и с полчищем мертвецов."
+
+#: scenarios/2_The_golden_chest.cfg:5
+msgid "2) The golden chest"
+msgstr "2) Сундук полный золота"
+
+#: scenarios/2_The_golden_chest.cfg:23
+msgid "The gold is a treacherous thing. It's glittering glance caused more troubles than anything else did throughout the history. It can cause friendships to fall apart and make recent allies become sworn enemies. Enemies prepared to slaughter each other without hesitation."
+msgstr "Золото - предательская вещица. Его обманчивое сияние принесло миру столько неприятностей, как ни что иное. Сколько друзей разругалось при виде этого металла, сколько верных союзников обратились в заклятых врагов... А враги готовы убить друг друга без колебаний..."
+
+#: scenarios/2_The_golden_chest.cfg:53
+msgid "Durondela"
+msgstr "Дуронделла"
+
+#: scenarios/2_The_golden_chest.cfg:58
+msgid "Aglarond"
+msgstr "Агларонд"
+
+#: scenarios/2_The_golden_chest.cfg:63
+msgid "Roccondil"
+msgstr "Роккондил"
+
+#: scenarios/2_The_golden_chest.cfg:86 scenarios/2_The_golden_chest.cfg:116
+#: scenarios/2_The_golden_chest.cfg:136
+msgid "teamname^Villagers"
+msgstr "Крестьяне"
+
+#: scenarios/2_The_golden_chest.cfg:120 scenarios/3_Rise_of_the_undead.cfg:110
+msgid "Herbert"
+msgstr "Герберт"
+
+#: scenarios/2_The_golden_chest.cfg:142 scenarios/Interlude2_a_new_way.cfg:189
+msgid "Samin Leafstel"
+msgstr "Сеймэн Лифстил"
+
+#: scenarios/2_The_golden_chest.cfg:189
+msgid "Defeat Teddy"
+msgstr "Поражение Тедди"
+
+#: scenarios/2_The_golden_chest.cfg:193
+msgid "Force Samin to surrender to you"
+msgstr "Вынудите сдаться Сеймэна"
+
+#: scenarios/2_The_golden_chest.cfg:205
+msgid "Time for our revenge has come! Surrender to the united forces of our villages!"
+msgstr "Вот и настала пора нашей мести! Сдавайтесь! Вам не выстоять супротив всех сил окрестных деревень!"
+
+#: scenarios/2_The_golden_chest.cfg:209
+msgid ""
+"Oh, and what about this? Take your pitchforks and go back home before...\n"
+"WHAT THE HELL IS THAT RANGER DOING HERE?"
+msgstr ""
+"И что это меняет? Плюс минус одна деревня... Знаешь что? Засунь-ка свои силы сам догадайся куда, и топай к родным свиньям прежде..\n"
+"ТРОЛЛЬ РАЗДЕРИ, ЧТО ЗДЕСЬ ДЕЛАЕТ РЕЙНДЖЕР?"
+
+#: scenarios/2_The_golden_chest.cfg:214
+msgid "My name is Samin Leafstel and I am the chief of one of these human villages. How did I become what I am is not your business. Here I stand to destroy anyone who threatens my new home."
+msgstr "Меня зовут Сеймэн Лифстил, я руковожу здешними людскими поселениями. Ваш поступок бесчестен. Хоть мне и плевать на ваши дела, но тот, кто причинил вред моему новому дому, не уйдёт от ответа."
+
+#: scenarios/2_The_golden_chest.cfg:218
+msgid "Brother?! You're alive! What are you doing here? Do you not recognize me?"
+msgstr "Брат?! Ты жив! Что же ты здесь делаешь? Разве ты не признаёшь меня?"
+
+#: scenarios/2_The_golden_chest.cfg:222
+msgid "I do recognize you quite well, my stray sister. Heed my words - your deads will not be left unpunished. I cannot let you live after what you have done to these villagers. None of you. Prepare to die!"
+msgstr "Я признал тебя, моя беспризорная сестричка. Но не родня ты мне после содеянного. Кровь моих безвинных людей не останется без отмщения, а ваши преступления безнаказанными. Каждому из вас приговором будет смерть."
+
+#: scenarios/2_The_golden_chest.cfg:231
+msgid "Mermen of the far seas, I call you to our side."
+msgstr "Водяные далёких морей! Призываю вас!"
+
+#: scenarios/2_The_golden_chest.cfg:254
+msgid "Smash 'em, men!"
+msgstr "Разобьём их, братья!"
+
+#: scenarios/2_The_golden_chest.cfg:258
+msgid "No! Spare my life... please..."
+msgstr "Нет! Пожалуйста, сохраните мне жизнь..."
+
+#: scenarios/2_The_golden_chest.cfg:267
+msgid "Victory is ours! But more adventures await us..."
+msgstr "Победа наша! Теперь нас ожидают новые приключения..."
+
+#: scenarios/2_The_golden_chest.cfg:280
+msgid "My friends will avenge me!"
+msgstr "Мои друзья отомстят за меня!"
+
+#: scenarios/2_The_golden_chest.cfg:287
+msgid "I saw a group of undead heading this way. We must prepare for their arrival."
+msgstr "Я приметил, как вон в том направлении двигались крупные отряды мертвяков. Надо бы приготовиться и встретить их, как положено."
+
+#: scenarios/2_The_golden_chest.cfg:300
+msgid "We will miss you, Durondela. What future awaits us without you?"
+msgstr "Нам будем недоставать тебя, Дуронделла. Что же нам без тебя делать?"
+
+#: scenarios/2_The_golden_chest.cfg:314
+msgid "Any last words?"
+msgstr "Скажешь что-нибудь напоследок?"
+
+#: scenarios/2_The_golden_chest.cfg:318
+msgid "Wait! Don't kill me, I can be useful to you. I was up to take a journey westwards to seek help of the Brotherhood of Light. I've heard rumors about their secret weapon against those wretched undead."
+msgstr "Подождите! Не убивайте меня! Я поделюсь с вами ценной информацией. Мертвецы эти нам давно уже досаждают, и я готов был отправиться искать помощи на западе у Пресветлого Братства. Ходят слухи, что есть у них тайное оружие против мертвецов."
+
+#: scenarios/2_The_golden_chest.cfg:322
+msgid "Liar! You thought these lies will save your life? Merhil, kill him."
+msgstr "Лжец! Ты надеялся, что такими бреднями выторгуешь свою жалкую жизнь? Мирхайл, прикончи его поскорее."
+
+#: scenarios/2_The_golden_chest.cfg:326
+msgid "Wait! What if his words are true?"
+msgstr "Погоди. А если он не врёт?"
+
+#: scenarios/2_The_golden_chest.cfg:330
+msgid "They are, I swear..."
+msgstr "Клянусь..."
+
+#: scenarios/2_The_golden_chest.cfg:334
+msgid "Let him prove it. He may be a valuable ally. What do you say, Nerelia?"
+msgstr "Так и быть. Пусть свои слова докажет делом. Может и сгодится на что. Что скажешь, Нерелия?"
+
+#: scenarios/2_The_golden_chest.cfg:338
+msgid "Please, Nerelia, forgive me! I never really meant to hurt you..."
+msgstr "Пожалуйста, Нерелия, прости меня! Я не хотел причинить тебе боль..."
+
+#: scenarios/2_The_golden_chest.cfg:342
+msgid "I hope I won't have to regret this... Let him go. ou are now obliged to Lahias, my brother."
+msgstr "Надеюсь, о сделанном не пожалею... Пусть живёт. Теперь, братец, ты обязан своей жизнью Лахиасу."
+
+#: scenarios/2_The_golden_chest.cfg:346
+msgid "Thank you! Next time we meet, I will save HIS life. Farewell for now."
+msgstr "Благодарю. При следующей встрече я верну долг и спасу ЕГО жизнь. Прощайте."
+
+#: scenarios/2_The_golden_chest.cfg:366
+msgid "My village, my people! All is lost!"
+msgstr "Моя деревня, мои люди! Всё пропало!"
+
+#: scenarios/2_The_golden_chest.cfg:370
+msgid "Merhil, do you hear that?"
+msgstr "Мирхайл, ты слышишь то, что слышу я?"
+
+#: scenarios/2_The_golden_chest.cfg:374
+msgid "What are you talking about?"
+msgstr "Ты о чём?"
+
+#: scenarios/2_The_golden_chest.cfg:378
+msgid "A storm or something... No, it is not a storm. I can feel something very evil. It is near, very near!"
+msgstr "Шторм или... Нет, это не шторм. Я чувствую, как надвигается нечто злое, всё ближе и ближе!"
+
+#: scenarios/2_The_golden_chest.cfg:382
+msgid "You are right, Lahias. I sense a dark magic here."
+msgstr "Ты прав, Лахиас. Я тоже чувствую приближение тёмной магии."
+
+#: scenarios/2_The_golden_chest.cfg:386
+msgid "Aaaaaargh!"
+msgstr "Ааааргх!"
+
+#: scenarios/2_The_golden_chest.cfg:403
+msgid "He disappeared! How is that possible? And what do we do now?"
+msgstr "Он исчез! Как это возможно? И что теперь делать?"
+
+#: scenarios/3_Rise_of_the_undead.cfg:5
+msgid "3) Rise of the undead"
+msgstr "3) Восстание мертвецов"
+
+#: scenarios/3_Rise_of_the_undead.cfg:19
+msgid "Not far to the north, first hordes of the undead has shown up. This may be a great test for Lahias and his new abilities. But will he stand a chance against such an evil?"
+msgstr "Недолго суждено было нашим героям идти на север: встали на их пути мертвецкие орды. Выдержит ли Лахиас новое испытание? Помогут ли обретённые им способности выстоять против зла?"
+
+#: scenarios/3_Rise_of_the_undead.cfg:22
+msgid "The company of the three elves and their army have recently met a white mage wanderer. He taught them how to use holy magic. This new ability merged with natural elvish powers turned some of the fighters into the elvish lords."
+msgstr "Ведь повстречался нашим героям странствующий маг. И научил эльфов использовать для борьбы с порождениями мрака светлую магию. А магия эта, на эльфийские способности положенная, превратила некоторых бойцов в эльфийских лордов."
+
+#: scenarios/3_Rise_of_the_undead.cfg:48
+msgid "Marionel"
+msgstr "Марионель"
+
+#: scenarios/3_Rise_of_the_undead.cfg:54
+msgid "Zerenhil"
+msgstr "Зеренхил"
+
+#: scenarios/3_Rise_of_the_undead.cfg:59
+msgid "Allas the Wanderer"
+msgstr "Странник Аллас"
+
+#: scenarios/3_Rise_of_the_undead.cfg:132
+#: scenarios/Interlude_river_crossing.cfg:50
+msgid "Tademanar"
+msgstr "Тейдеменар"
+
+#: scenarios/3_Rise_of_the_undead.cfg:163
+msgid "teamname^Revolting Orcs"
+msgstr "Восставшие орки"
+
+#: scenarios/3_Rise_of_the_undead.cfg:166
+msgid "Ngo'rok"
+msgstr "Нго'рок"
+
+#: scenarios/3_Rise_of_the_undead.cfg:190
+msgid "Nashtok"
+msgstr "Нашток"
+
+#: scenarios/3_Rise_of_the_undead.cfg:222
+msgid "Defeat lich Tademanar"
+msgstr "Одолейте Лича Тейдеменара"
+
+#: scenarios/3_Rise_of_the_undead.cfg:234
+msgid "Die, you tree-loving bastards! Soon you'll become servants of our Dark Queen!"
+msgstr "Сдохните, любящие деревья ублюдки! Скоро все вы станете слугами Тёмной Королевы!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:238
+msgid "Die, die, die!"
+msgstr "Смерть! Смерть! Смерть!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:242
+msgid "What did Samin say about them? Peaceful villagers? I think that..."
+msgstr "Что там о них говорил Сеймэн — 'мирные сельские жители'?.. Ну-ну..."
+
+#: scenarios/3_Rise_of_the_undead.cfg:246
+msgid "He couldn't know that they will become undead. That Dark Queen they speak of, who is it?"
+msgstr "Он и знать не мог, что его люди обратятся в ходячих мертвецов. А о какой Тёмной Королеве они говорят?"
+
+#: scenarios/3_Rise_of_the_undead.cfg:250
+msgid "We will certainly see her when we destroy her!"
+msgstr "Полагаю, мы удостоимся чести лицезреть её, как только расправимся с этим сбродом."
+
+#: scenarios/3_Rise_of_the_undead.cfg:254
+msgid "I just got an idea. We should attack Herbert with our full strengh. Once he's eliminated we could move in his fortress."
+msgstr "Послушайте, у меня тут идея назревает... Ударим по Герберту в полную мощь, так, чтобы у нечисти пятки засверкали, и на их плечах ворвёмся в крепость."
+
+#: scenarios/3_Rise_of_the_undead.cfg:258
+msgid "HA-HA-HA!"
+msgstr "ХА-ХА-ХА!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:262
+msgid "Go Lahias, I will heal you. And remember, our elvish lords are very powerful against the undead, do not let them fall!"
+msgstr "Лахиас, давай сюда, я исцелю тебя. И, не забывай, среди нас только эльфийские лорды могут противостоять мертвецам. Не позволяй им умирать понапрасну!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:266
+msgid "Look, there are mountains in the east. It will be wise to avoid them."
+msgstr "Смотрите, на востоке горы. Лучше будет их обойти..."
+
+#: scenarios/3_Rise_of_the_undead.cfg:278
+msgid "Thank you for freeing me. Every moment of being an undead was worse than hell!"
+msgstr "Благодарю за освобождение. Каждый момент, который провёл я в теле мертвецком, был для меня истинным кошмаром."
+
+#: scenarios/3_Rise_of_the_undead.cfg:290
+msgid "Thank you! Every second of this <i>life</i> was an endless suffering! Hear what I want to tell you. The Queen has a very powerful stronghold to the north, and she is preparing for a massive attack against the city of Carcifall, also known as the Brotherhood of Light. You must stop her at all costs!"
+msgstr "Спасибо! Каждая секунда такой <i>жизни</i> была невыносима! Услышьте же то, что открою вам. Королева владеет неприступной цитаделью на севере, там копит она силы, чтобы напасть на город Корифалл, известный здесь как Пресветлое Братство. Вы должны любой ценой остановить её!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:302
+#: scenarios/3_Rise_of_the_undead.cfg:314
+msgid "My inner fire is weakening..."
+msgstr "Моё пламя угасает..."
+
+#: scenarios/3_Rise_of_the_undead.cfg:323
+msgid "We will NOT fight for your Dark Queen! We are powerful enough, we don't want to fight for that puny woman!"
+msgstr "Мы не собираемся биться за твою Тёмную Королеву. Мы сами по себе. Не станем копья ломать за слабую бабу!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:327
+msgid "With these words you just signed your death sentence! But fulfilling it will be a pleasure for us. Warriors, slaughter that traitorous dog!"
+msgstr "Этими словами ты подписал смертный приговор своему племени! С каким же наслаждением я исполню его... Воины, покромсайте на ремни эту шавку!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:331
+msgid "I will cut your filthy undead mouth into two you... you mindless pile of bones!"
+msgstr "Я вырежу твой засратый язык через... Гррр! Безмозглая, груда костей!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:335
+msgid "Really? Let's take a look. My power is growing every second and the Queen is going to kill every orc that will stand against her!"
+msgstr "В самом деле? Взгляни: моя сила с каждым днём возрастает, а Королева повелела изничтожить каждого орка, который попытается противиться ей!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:339
+msgid "You are just a silly little skeleton. Nothing more. NOTHING!"
+msgstr "Ты не более, чем груда костей. Дрянных костей. Ты ничто. НИЧТО!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:343
+msgid "True orcs fight for the Queen! You and your... ehm... army are nothing more than cowardly chickens! Orcs, kill these rebelious weaklings! Long live the Queen!"
+msgstr "Истинные орки выбрали верный путь. Они бьются за Королеву! А ваша арм... твой сброд просто трусливые цыплята! Ко-ко-ко! Дайте же нам расправиться с этими недалёкими слабаками. Да здравствует Королева!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:347
+msgid "True. Even the peasants are more powerful than Ngorok!"
+msgstr "Верно. Даже крестьяне обладают большей храбростью, чем Нго'рок!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:351
+msgid "(Hmmm. It seams they don't know about our presence. We can use it to our advantage.)"
+msgstr "(Хммм... Они не знают о нашем присутствии. Используем это.)"
+
+#: scenarios/3_Rise_of_the_undead.cfg:366
+msgid "I am here, father! Orcs, raise your weapons!"
+msgstr "Я здесь, отец! Орки, поднимем оружие!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:370
+msgid "I hope that your arrival is not too late."
+msgstr "Надеюсь, ты прибыл не слишком поздно."
+
+#: scenarios/3_Rise_of_the_undead.cfg:374
+msgid "Charge! Attack quickly!"
+msgstr "Вперёд! В атаку!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:410
+msgid "Lebiel"
+msgstr "Лабиэль"
+
+#: scenarios/3_Rise_of_the_undead.cfg:423
+msgid "My lord, I have collected some information about the Queen."
+msgstr "Мой лорд, мне удалось узнать кое-что о королеве."
+
+#: scenarios/3_Rise_of_the_undead.cfg:427
+msgid "Very well. Report it to me."
+msgstr "Замечательно. Давай рассказывай."
+
+#: scenarios/3_Rise_of_the_undead.cfg:431
+msgid "She was an elvish lady, but a monster of some kind transformed her into a very powerful undead. She have gathered an undead army and tricked the orcs to fight for her. Now their main forces are marching to destroy the Brotherhood of Light! I also saw a wandering white mage going this direction."
+msgstr "Когда-то она была эльфийкой из влиятельного семейства, но случилось несчастье — во дворец пробрался невиданный монстр и превратил юную леди в мёртвую колдунью... Никто не мог превзойти её в тёмных чарах. Долгие годы королева набирала себе армию мертвецов и обманом подчиняла окрестные племена орков. А теперь она собирается разрушить Пресветлое Братство! И ещё, мой лорд, на пути сюда мне повстречался белый маг..."
+
+#: scenarios/3_Rise_of_the_undead.cfg:435
+msgid "I am that wanderer. They call me Allas."
+msgstr "Это я. Позвольте представиться, меня зовут Эллас."
+
+#: scenarios/3_Rise_of_the_undead.cfg:444
+msgid "You must go with me to the Brotherhood now! We have no time to spare."
+msgstr "Прошу вас, поспешите! Город находится на грани гибели, нужно немедленно идти к Пресветлому Братству!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:448
+msgid "All of us will go! Elves, prepare to move west!"
+msgstr "Мы все отправляемся в путь! Эльфы, выдвигаемся на запад!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:452
+msgid "But what about this lich? He is fleeing! I'm going after him!"
+msgstr "Но что же делать с личем? Он бежит! Нельзя упускать такую возможность. Я последую за ним по пятам!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:456
+msgid "Lahias, have you lost your mind?!"
+msgstr "Лахиас, ты спятил?"
+
+#: scenarios/3_Rise_of_the_undead.cfg:460
+msgid "Just trust me! This is my battle, and I will defeat him quickly! Go to protect the Brotherhood, I will wait for you there."
+msgstr "Доверься мне. Это моя битва, я быстро с ним разделаюсь. Идите на подмогу Братству. Встретимся под стенами города!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:464
+msgid "Move Lahias here"
+msgstr "Переместите Лахиаса сюда"
+
+#: scenarios/3_Rise_of_the_undead.cfg:473
+msgid "Move Lahias to the bridge."
+msgstr "Переместите Лахиаса на мост."
+
+#: scenarios/3_Rise_of_the_undead.cfg:486
+msgid "This will be a deadly duel. Prepare yourself, undead beast!"
+msgstr "Это будет смертельный поединок. Приготовься, тварь!"
+
+#: scenarios/3_Rise_of_the_undead.cfg:513
+msgid "These hills are... too quiet."
+msgstr "Эти холмы... слишком тихо вокруг."
+
+#: scenarios/3_Rise_of_the_undead.cfg:522
+msgid "It's a trap! Defend yourselves!"
+msgstr "Ловушка! Защищайтесь!"
+
+#: scenarios/4_The_great_march.cfg:5
+msgid "4) The great march"
+msgstr "4) Великий поход"
+
+#: scenarios/4_The_great_march.cfg:24
+msgid "The elves were in a great hurry to the city of Carcifall, well known as the Brotherhood of Light. This city, created by the holy magic of the white mages together with the hands of the elves, have already been under attack."
+msgstr "Эльфы как могли спешили на выручку к городу Корафаллу, в окрестных местах Пресветлым Братством именуемому. Древний был это город. Не одно столетие простоял он во здешних землях, и всегда жители превыше всего ставили чистые помыслы, ибо основан он был пресветлыми белыми магами, что с эльфами дружбу водили. Вот и торопились эльфы к охваченному огнём городу..."
+
+#: scenarios/4_The_great_march.cfg:27
+msgid "Merhil assumed that such a city certainly had a very powerful defences. But was he right? Is there a city which can stand such a massive attack? Growing darkness was making the march much more difficult. He wondered what was causing these lands to be so... hostile."
+msgstr "Мирхайл предполагал, что должна быть у города верная и надёжная оборона. Но терзали его сомнения, что если ошибался он? Какой город сможет устоять против такого нашествия? Тем временем на болота пала ночь и идти вперёд стало непомерно трудно. Будто весь край ополчился на эльфийскую армию."
+
+#: scenarios/4_The_great_march.cfg:30
+msgid "Orcs? Undead? Or was it something more?"
+msgstr "Орки? Мертвецы? Или кто-то ещё более грозный?"
+
+#: scenarios/4_The_great_march.cfg:69
+msgid "teamname^Saurians"
+msgstr "Ящеры"
+
+#: scenarios/4_The_great_march.cfg:72
+msgid "Got'skal"
+msgstr "Гот'скал"
+
+#: scenarios/4_The_great_march.cfg:97
+msgid "Marius"
+msgstr "Мариус"
+
+#: scenarios/4_The_great_march.cfg:119 scenarios/5_Party_for_vultures.cfg:170
+msgid "Narok"
+msgstr "Нарок"
+
+#: scenarios/4_The_great_march.cfg:151
+msgid "Merhil must capture the fort in the south-west."
+msgstr "Мирхайл захватывает форт на юго-западе."
+
+#: scenarios/4_The_great_march.cfg:162
+msgid "Southwestern fort"
+msgstr "Юго-западный форт"
+
+#: scenarios/4_The_great_march.cfg:172
+msgid "Trug"
+msgstr "Труг"
+
+#: scenarios/4_The_great_march.cfg:178
+msgid "We have to move west very quickly or else... Look, lava!"
+msgstr "Нам нужно быстрее двигаться на запад, иначе... Гляньте: лава!"
+
+#: scenarios/4_The_great_march.cfg:182
+msgid "I don't know these parts very well, but this lava looks very unnatural. Some sorcerer was probably having some fun here."
+msgstr "Я не настолько хорошо разбираюсь в горных науках, но эта лава выглядит неестественно. Похоже, здесь позабавился какой-то волшебник."
+
+#: scenarios/4_The_great_march.cfg:186
+msgid "But that troll over there looks quite natural. How about asking him what is going on here?"
+msgstr "Но тот тролль выглядит очень даже естественно. Может, стоить расспросить его?"
+
+#: scenarios/4_The_great_march.cfg:190
+msgid "Are you sure that this is a good idea?"
+msgstr "Ты уверена, что эта хорошая идея?"
+
+#: scenarios/4_The_great_march.cfg:194
+msgid "He looks like one of that evil ones, but he cannot face us alone. Let's have a closer look at him."
+msgstr "Доброго парня он не напоминает, но не станет же он в одиночку кидаться на всех нас? Окажемся ближе — посмотрим."
+
+#: scenarios/4_The_great_march.cfg:198
+msgid "Excuse me, mr... troll. Can you tell us what is happening here? And what is that lava doing over there?"
+msgstr "Прошу прощения, добрый тролль. Не подскажешь ли нам, что тут происходит? И что это за странная лава?"
+
+#: scenarios/4_The_great_march.cfg:204
+msgid "Halt! What is puny elfs doing here? Speak quickly or Trug crush your skulls like... skulls!"
+msgstr "Стойте! Что маленькие эльфы здесь делать? Быстро говорить! А то Труг пробьёт ваши черепа как... черепа!"
+
+#: scenarios/4_The_great_march.cfg:209
+msgid "We..."
+msgstr "Мы..."
+
+#: scenarios/4_The_great_march.cfg:211
+msgid "We are heading west to protect the city of Carcifall from the invasion of orcs and undead."
+msgstr "Мы движемся на запад, чтобы защитить город Корифалл от орков и мертвецов."
+
+#: scenarios/4_The_great_march.cfg:215
+msgid "You no can go, Trug eat you."
+msgstr "Вы не пройти. Труг вас съест."
+
+#: scenarios/4_The_great_march.cfg:221
+msgid "We are hunting that traitor Samin Leafstel."
+msgstr "Мы охотимся на предателя Сеймена Лифстила."
+
+#: scenarios/4_The_great_march.cfg:225
+msgid "Oh, maybe you can go west. You eat Sama... elf."
+msgstr "О. Можете идти на запад. Вы съесть Сайм... эльфы."
+
+#: scenarios/4_The_great_march.cfg:234
+msgid "We are marching west to attack Carcifall, as the Dark Queen has commanded us."
+msgstr "Мы идём на запад, что напасть на Корифалл по приказу Тёмной Королевы."
+
+#: scenarios/4_The_great_march.cfg:238
+msgid "Queen? Hm... Me guess you can go west. Queen is good. Queen send food to Trug. Food come tied and no have weapons."
+msgstr "Королева? Гм... Труг думать вы идти на запад. Королева хорошая. Королева присылает Трогу еду. Еда хорошая. Еда связанная и без оружия."
+
+#: scenarios/4_The_great_march.cfg:247
+msgid "We are here to kill every ugly, stinky troll who crosses our path!"
+msgstr "Мы должны убить здесь каждого вонючего тролля, который станет на нашем пути!"
+
+#: scenarios/4_The_great_march.cfg:251
+msgid "Youuuu! Bad, bad elf. Me eat you! No. Me crush your skull and eat you!"
+msgstr "Тыыыы! Плохой, плохой эльф! Труг съесть тебя! Труг сокрушить твой череп и съесть тебя!"
+
+#: scenarios/4_The_great_march.cfg:263
+msgid "I have a very bad feeling about that journey of Lahias. Do you think he is allright? I hope he is not wounded or... something worse."
+msgstr "Я беспокоюсь о Лахиасе, меня не покидают дурные предчувствия. Как думаешь, с ним всё нормально? Надеюсь, ранение или.. что похуже обошло его стороной."
+
+#: scenarios/4_The_great_march.cfg:267
+msgid "No need to worry, he is strong and witty."
+msgstr "Нет нужды волноваться понапрасну: Лахиасу не занимать ни силы, ни смекалки."
+
+#: scenarios/4_The_great_march.cfg:271
+msgid "But I do not see him. It seams he is late. He may be in a very difficult situation right now."
+msgstr "Прошло уже столько времени. Он уже вполне мог нагнать нас... Возможно, прямо сейчас он оказался в безвыходной ситуации."
+
+#: scenarios/4_The_great_march.cfg:275
+msgid "Or he may be closer to the Carcifall then we are as well."
+msgstr "А может быть, что он уже куда ближе к Корифаллу, чем мы."
+
+#: scenarios/4_The_great_march.cfg:279
+msgid "Sidonia might help us now. I will try to contact her."
+msgstr "Сидония могла бы нам помочь. Я попробую связаться с ней."
+
+#: scenarios/4_The_great_march.cfg:283
+msgid "Sidonia? That crazy sorceress?!? Are you sure that she will help us?"
+msgstr "Сидония? Та рехнувшаяся магичка?! Ты серьёзно полагаешь, что она чем-то сможет нам помочь?"
+
+#: scenarios/4_The_great_march.cfg:287
+msgid "Yes, I trust my sister."
+msgstr "Да, я доверяю своей сестре."
+
+#: scenarios/4_The_great_march.cfg:291
+msgid "Sister? You are full of surprises, my darlin'"
+msgstr "Сестре? Ты по-прежнему полна сюрпризов, моя дорогая."
+
+#: scenarios/4_The_great_march.cfg:300
+msgid "Voice unknown for most, but very familiar to Nerelia, whispers in the wind. As the sound fades everyone can be sure that their progress will be easier now."
+msgstr "Среди ветреного шороха, никому иному неразличимый, раздался знакомый Нерелии шёпот. Покружив над болотами, растворится он в неизвестности, а эльфам теперь стало куда легче продвигаться вперёд."
+
+#: scenarios/4_The_great_march.cfg:314
+msgid "Groshak"
+msgstr "Грошак"
+
+#: scenarios/4_The_great_march.cfg:315
+msgid "Tolec"
+msgstr "Толек"
+
+#: scenarios/4_The_great_march.cfg:316
+msgid "Mufi"
+msgstr "Муфи"
+
+#: scenarios/4_The_great_march.cfg:320
+msgid "To the city, quick! Pillage every single... what are these elves doing here?"
+msgstr "Не задерживаемся! Разделитесь и грабьте по отдельности... Что это эльфы тут забыли?"
+
+#: scenarios/4_The_great_march.cfg:324
+msgid "Hey you, are you friends of Ngorok?"
+msgstr "Эй ты, вы друзья Нгорока?"
+
+#: scenarios/4_The_great_march.cfg:328
+msgid "Ngorok?! Weakling Ngorok is a traitor! We are fighting for the Queen."
+msgstr "Нгорок?! Трусливый Нгорок засранный предатель! Мы бьёмся за Королеву."
+
+#: scenarios/4_The_great_march.cfg:332
+msgid "Well, we are here to kill every last servant of the Queen! To arms, my friends!"
+msgstr "Ааа. Ну а мы должны убить каждого, кто за эту королеву бьётся. К оружию, мои друзья!"
+
+#: scenarios/4_The_great_march.cfg:341
+msgid "I am slow, too slow. I can never make it in time. Why have I become an adventurer without having a horse?"
+msgstr "Я слишком медленный, тролль раздери! Никогда не успеваю вовремя. И почему я вечно встряю в приключения, не имея под собой хотя бы мало-мальски годного скакуна?"
+
+#: scenarios/4_The_great_march.cfg:364
+msgid "We are close, I can feel it!"
+msgstr "Мы близко, я чувствую!"
+
+#: scenarios/4_The_great_march.cfg:368
+msgid "Yes, we are nearly there."
+msgstr "Да, мы почти на месте."
+
+#: scenarios/5_Party_for_vultures.cfg:5
+msgid "5) Party for vultures"
+msgstr "5) Пир стервятников"
+
+#: scenarios/5_Party_for_vultures.cfg:23
+msgid "Carcifall is under attack of the combinated forces of orcs and undead. Elves and mages prepare defenses, but it will not guard the city for long."
+msgstr "Тяжко пришлось защитникам города Корифалла, с трудом отражали они непрерывные атаки орков и ходячих мертвяков. Эльфы и маги, выбиваясь из сил, укрепляли стены, восстанавливали разрушенные нападающими участки. Но силы уже покидали их..."
+
+#: scenarios/5_Party_for_vultures.cfg:26
+msgid "Their only hope lies in Samin and warriors loyal to him."
+msgstr "Единственная надежда была на Сеймэна и его воинов."
+
+#: scenarios/5_Party_for_vultures.cfg:29
+msgid "And unexpected reinforcements lead by Merhil, still nearly unknown adventurer."
+msgstr "И нежданно привёл подкрепление к защитникам осаждённого города искатель приключений Мирхайл."
+
+#: scenarios/5_Party_for_vultures.cfg:95
+#: scenarios/Interlude2_a_new_way.cfg:209
+msgid "Sidonia"
+msgstr "Сидония"
+
+#: scenarios/5_Party_for_vultures.cfg:125
+msgid "Captain Jagr"
+msgstr "Капитан Ярг"
+
+#: scenarios/5_Party_for_vultures.cfg:146
+msgid "female^Narven"
+msgstr "Нарвин"
+
+#: scenarios/5_Party_for_vultures.cfg:191
+msgid "Tarku"
+msgstr "Тарку"
+
+#: scenarios/5_Party_for_vultures.cfg:212
+msgid "Fan'to'mas"
+msgstr "Фан'ту'мейс"
+
+#: scenarios/5_Party_for_vultures.cfg:233
+msgid "Ghost of Navigator"
+msgstr "Призрак Навигатора"
+
+#: scenarios/5_Party_for_vultures.cfg:268
+msgid "Defend the city"
+msgstr "Защитите город"
+
+#: scenarios/5_Party_for_vultures.cfg:286
+msgid "Tarsos"
+msgstr "Тарсоз"
+
+#: scenarios/5_Party_for_vultures.cfg:293
+msgid "Lucia"
+msgstr "Люсия"
+
+#: scenarios/5_Party_for_vultures.cfg:299
+msgid "Marilio"
+msgstr "Марилио"
+
+#: scenarios/5_Party_for_vultures.cfg:305
+msgid "Tadien"
+msgstr "Тайдьен"
+
+#: scenarios/5_Party_for_vultures.cfg:311
+msgid "Debra"
+msgstr "Дебра"
+
+#: scenarios/5_Party_for_vultures.cfg:319
+msgid "Ian"
+msgstr "Иэн"
+
+#: scenarios/5_Party_for_vultures.cfg:327
+msgid "Captain Narufel"
+msgstr "Капитан Нэруфель"
+
+#: scenarios/5_Party_for_vultures.cfg:335
+msgid "Captain Tesias"
+msgstr "Капитан Тесиас"
+
+#: scenarios/5_Party_for_vultures.cfg:386
+msgid "This city will not fall! Prepare defences!"
+msgstr "Этот город никогда не падёт! Не отступим, братья!"
+
+#: scenarios/5_Party_for_vultures.cfg:390
+msgid "We are going to infest this city!"
+msgstr "Скоро мои воины зальют кровью улочки вашего городка!"
+
+#: scenarios/5_Party_for_vultures.cfg:411
+msgid "Never..."
+msgstr "Никогда..."
+
+#: scenarios/5_Party_for_vultures.cfg:418
+msgid "Sahias"
+msgstr "Сахиас"
+
+#: scenarios/5_Party_for_vultures.cfg:425
+msgid "Neril"
+msgstr "Нериль"
+
+#: scenarios/5_Party_for_vultures.cfg:431
+msgid "In the name of Samin Leafstel, remove this black plague!"
+msgstr "Именем Сеймена Лифстила прогоните прочь эту мерзкую чуму!"
+
+#: scenarios/5_Party_for_vultures.cfg:435
+msgid "This will be a difficult fight, but we have an advantage in the forests. Let's prepare our warriors close to river, and do not forget to heal wounded units."
+msgstr "Это будет не просто. Воспользуемся нашим преимуществом в лесах. Расположим воинов около реки и, главное, помните — на счету каждый клинок; не отказывайте в помощи раненным."
+
+#: scenarios/5_Party_for_vultures.cfg:439
+msgid "They are no match for wrath of elves!"
+msgstr "Укрыться в лесах?! Да как ты смеешь? Гнев эльфов поможет одолеть любого врага!"
+
+#: scenarios/5_Party_for_vultures.cfg:443
+msgid "Stay calm and think - they can defeat us easily in grasslands. We must lure them to terrain suitable for us."
+msgstr "Успокойся и хорошенько подумай: на равнинах мы лишимся единственного нашего преимущества и будем наголову разбиты. У нас нет выхода, нужно завлечь их на благоприятную для нас местность."
+
+#: scenarios/5_Party_for_vultures.cfg:447
+msgid "What type of warriors is good against the undead and what against the orcs?"
+msgstr "Какие воины будут полезны против мертвецов, а какие против орков?"
+
+#: scenarios/5_Party_for_vultures.cfg:451
+msgid "Skeletons are weak against impact attacks, so against them we can use our mages. But there are too little of them left. We must make sure, that they will be healed. Elves can fight the orcs, but again, they must be healed."
+msgstr "Скелеты легко поразить магическими атаками. Можно использовать против них магов... Но магов осталось так мало! Необходимо беречь их как зеницу ока. Эльфы выдержат нападение орков, но опять таки, нужно помогать бойцам, и вовремя перевязывать раны."
+
+#: scenarios/5_Party_for_vultures.cfg:455
+msgid "Also we must accept, that both orcs and undead are very powerful at night and weak during the day."
+msgstr "Не стоит забывать и о времени суток. Орки и мертвецы сражаются ночью куда лучше нас. Следует по возможности атаковать их порядки в светлое время..."
+
+#: scenarios/5_Party_for_vultures.cfg:459
+msgid "Hi. Where can I have some drink?"
+msgstr "Привет. Где-нибудь тут можно промочить горло?"
+
+#: scenarios/5_Party_for_vultures.cfg:463
+msgid "Hey! I know you - you leaded that rebelion in the swamps, right?"
+msgstr "Эй! Да я тебя знаю! Ты предводитель восстания в болотах, верно?"
+
+#: scenarios/5_Party_for_vultures.cfg:467
+msgid "Sure. Listen, Ive come with many well trained warriors and I hate that wretched undead. Great battle is upon us, so today you will see our real skills. Ally?"
+msgstr "Ага. Послушайте, я привёл сюда многих обученных воинов, и как и вы, ненавижу этих несчастных мертвяков. Нас ждёт великая битва, которая покажет, кто на что способен. Ну так как, выйдем на битву союзниками?"
+
+#: scenarios/5_Party_for_vultures.cfg:471
+msgid "Agree of course. Well, let me introduce you Sidonia."
+msgstr "Конечно же. Позволь представить тебе Сидонию."
+
+#: scenarios/5_Party_for_vultures.cfg:475
+msgid "Nice girl."
+msgstr "Симпатичная..."
+
+#: scenarios/5_Party_for_vultures.cfg:479
+msgid "Thanks. But enought chatter. We must prepare troops for battle."
+msgstr "Спасибо. Но хватит разговоров. Нужно готовиться к битве."
+
+#: scenarios/5_Party_for_vultures.cfg:488
+msgid "We need more warriors to defend the city!"
+msgstr "Нам не хватает воинов для обороны города!"
+
+#: scenarios/5_Party_for_vultures.cfg:492
+msgid "Maybe I can summon some of them..."
+msgstr "Возможно, я смогу призвать нескольких..."
+
+#: scenarios/5_Party_for_vultures.cfg:496
+msgid "Lasate estan fundan, ti veere nesan luan!"
+msgstr "Lasate estan fundan, ti veere nesan luan!"
+
+#: scenarios/5_Party_for_vultures.cfg:502
+#: scenarios/5_Party_for_vultures.cfg:508
+#: scenarios/5_Party_for_vultures.cfg:514
+#: scenarios/5_Party_for_vultures.cfg:520
+#: scenarios/5_Party_for_vultures.cfg:526
+#: scenarios/5_Party_for_vultures.cfg:532
+#: scenarios/5_Party_for_vultures.cfg:549
+#: scenarios/5_Party_for_vultures.cfg:556
+#: scenarios/5_Party_for_vultures.cfg:705 scenarios/6_Final_assault.cfg:661
+#: scenarios/6_Final_assault.cfg:667 scenarios/6_Final_assault.cfg:673
+#: scenarios/7_Assassins.cfg:280 scenarios/7_Assassins.cfg:286
+#: scenarios/7_Assassins.cfg:292
+msgid "Summoned elf"
+msgstr "Призванный эльф"
+
+#: scenarios/5_Party_for_vultures.cfg:538
+msgid "And now, my most powerful one..."
+msgstr "А сейчас мой самый сильный воин..."
+
+#: scenarios/5_Party_for_vultures.cfg:542
+#: scenarios/5_Party_for_vultures.cfg:699
+msgid "Lasate estavan, su vanne taluan, ti garis lisuan ner veere fundan!"
+msgstr "Lasate estavan, su vanne taluan, ti garis lisuan ner veere fundan!"
+
+#: scenarios/5_Party_for_vultures.cfg:567
+msgid "Netera numas hivesi!"
+msgstr "Netera numas hivesi!"
+
+#: scenarios/5_Party_for_vultures.cfg:584 scenarios/6_Final_assault.cfg:694
+#: scenarios/6_Final_assault.cfg:727
+msgid "Summoned corpse"
+msgstr "Призванный труп"
+
+#: scenarios/5_Party_for_vultures.cfg:607
+msgid "Numas kina tara vei!"
+msgstr "Numas kina tara vei!"
+
+#: scenarios/5_Party_for_vultures.cfg:611
+msgid "Noare vine te le neavanon!"
+msgstr "Noare vine te le neavanon!"
+
+#: scenarios/5_Party_for_vultures.cfg:615
+msgid "What spell did that lich use against us?!?"
+msgstr "Какое заклинание бросил в нас лич?!?"
+
+#: scenarios/5_Party_for_vultures.cfg:619
+msgid "I have no idea, but I dispelled it. Or not?"
+msgstr "Понятия не имею, но я его отразила. Или нет?"
+
+#: scenarios/5_Party_for_vultures.cfg:623 scenarios/6_Final_assault.cfg:761
+msgid "HA-HA-HA"
+msgstr "ХА-ХА-ХА"
+
+#: scenarios/5_Party_for_vultures.cfg:629
+#: scenarios/5_Party_for_vultures.cfg:635
+#: scenarios/5_Party_for_vultures.cfg:641
+#: scenarios/5_Party_for_vultures.cfg:647
+msgid "Summoned knight"
+msgstr "Призванный рыцарь"
+
+#: scenarios/5_Party_for_vultures.cfg:653
+msgid "Come knights, kill the elves! Kill the mages! Kill all of them HA-HA-HA"
+msgstr "Явитесь рыцари, убейте эльфов! Убейте магов! Убейте их всех! ХА-ХА-ХА!"
+
+#: scenarios/5_Party_for_vultures.cfg:657
+msgid "Ancient fire of the Earth! Power of the burning flames! Show your wrath now and create a trap for this foul undead! Bur de le natia, su vere tisia, nu bere latovie terristea hius!"
+msgstr "Древнее пламя земли! Мощь огня! Явите свой гнев и покарайте нечестивых мертвецов! Bur de le natia, su vere tisia, nu bere latovie terristea hius!"
+
+#: scenarios/5_Party_for_vultures.cfg:668
+msgid "And about you, lich... Nar de tasimal su vere na morthipis!"
+msgstr "И тебя, лич... Nar de tasimal su vere na morthipis!"
+
+#: scenarios/5_Party_for_vultures.cfg:672 scenarios/6_Final_assault.cfg:613
+msgid "Aaaaaagh!"
+msgstr "Аааааагр!"
+
+#: scenarios/5_Party_for_vultures.cfg:686
+msgid "Great magic, Sidonia!"
+msgstr "Невероятная магия, Сидония!"
+
+#: scenarios/5_Party_for_vultures.cfg:690
+msgid "Oh, thanks."
+msgstr "О, спасибо."
+
+#: scenarios/5_Party_for_vultures.cfg:715
+msgid "Sale ne verrus tul ni niguen, neher to pask vel nei ten neowen!"
+msgstr "Sale ne verrus tul ni niguen, neher to pask vel nei ten neowen!"
+
+#: scenarios/5_Party_for_vultures.cfg:721
+#: scenarios/5_Party_for_vultures.cfg:727
+msgid "Summoned Siren"
+msgstr "Призванная сирена"
+
+#: scenarios/5_Party_for_vultures.cfg:737
+msgid "I can't hold that fire. Its starting to be really hard. We must kill that death knights."
+msgstr "Я не смогу долго удерживать пламя. Вызвать его было невероятно трудно, а уж дальше... Нужно быстрее расправиться с рыцарями мертвецов."
+
+#: scenarios/5_Party_for_vultures.cfg:752
+msgid "Grey Rangers have come!"
+msgstr "Прибыли Серые Рейнджеры!"
+
+#: scenarios/5_Party_for_vultures.cfg:781
+msgid "Oh, Brave New World!"
+msgstr "О, дивный новый мир!"
+
+#: scenarios/6_Final_assault.cfg:5
+msgid "6) Final assault"
+msgstr "6) Последняя схватка"
+
+#: scenarios/6_Final_assault.cfg:25
+msgid "Forces of Merhil and Samin broke the siege of Carcifall. In that very moment, attacks of the undead and their orc friends become weak and unorganised."
+msgstr "Силы Мирхайла и Сеймэна прорвали осаду Корифалла. Орки и мертвецы дрогнули, их ряды смешались, и в панике бежали они вспять, и долго ещё гнали их эльфы."
+
+#: scenarios/6_Final_assault.cfg:28
+msgid "Main bastion if evil is on the north, where the dark queen is preparing a new army of undead and orcs. Preparing fresh troops have only begun, and sentries delivered a message about elves."
+msgstr "Но нерушим остался ещё оплот зла, цитадель Тёмной Королевы, где готовятся новые полчища орков и мертвецов. День и ночь не прекращалась эта ужасная подготовка, как вдруг разведчики донесли весть о приближающихся эльфах."
+
+#: scenarios/6_Final_assault.cfg:31
+msgid "Elves, mages, and rebel orcs now stand united and prepared to banish anyone who oppose them. Their powers are now great."
+msgstr "Эльфы, маги и орки, которые восстали против тирании Тёмной Королевы, вышли единым строем навстречу потустороннему злу. Их сила теперь велика, как никогда прежде."
+
+#: scenarios/6_Final_assault.cfg:34
+msgid "But the power of a new undead leader, Lahias, are great too."
+msgstr "Но ничуть не меньше мощь нового предводителя мертвецов Лахиаса."
+
+#: scenarios/6_Final_assault.cfg:71
+msgid "Captain Sparrow"
+msgstr "Капитан Спарроу"
+
+#: scenarios/6_Final_assault.cfg:95
+msgid "female^Adena"
+msgstr "Адена"
+
+#: scenarios/6_Final_assault.cfg:125
+msgid "Trohak"
+msgstr "Трохак"
+
+#: scenarios/6_Final_assault.cfg:180
+msgid "Tursakk"
+msgstr "Турсакк"
+
+#: scenarios/6_Final_assault.cfg:202
+msgid "Rootkit"
+msgstr "Рооткит"
+
+#: scenarios/6_Final_assault.cfg:236 scenarios/8_A_new_alliance.cfg:428
+msgid "Defeat Lahias"
+msgstr "Победите Лахиаса"
+
+#: scenarios/6_Final_assault.cfg:254
+msgid "Buhadumn"
+msgstr "Бухадумн"
+
+#: scenarios/6_Final_assault.cfg:262
+msgid "Such a beautiful country!"
+msgstr "Такая красивая страна!"
+
+#: scenarios/6_Final_assault.cfg:266
+msgid "Yes. Forests, meadows and bands of undead north of there. Brilliant."
+msgstr "Да. Леса, луга. И к северу полосами так мертвецы, мертвецы. Глаз не оторвать."
+
+#: scenarios/6_Final_assault.cfg:270
+msgid "But we are goint to retake it from them, or not?"
+msgstr "Но ведь мы возвратим себе эти земли?"
+
+#: scenarios/6_Final_assault.cfg:274
+msgid "Sure. Our forces are great. And we have a new allies."
+msgstr "Уверен. Наши силы и сами по себе не малы, а к тому же прибыли новые союзники."
+
+#: scenarios/6_Final_assault.cfg:278
+msgid "Well, can you introduce them to us?"
+msgstr "Можешь нам их представить?"
+
+#: scenarios/6_Final_assault.cfg:282
+msgid "Very well. This is Trohak, son of Ngorok. He lead the rebel orcs."
+msgstr "Конечно. Это — Трохэк, сын Нгорока. Он ведёт за собой восставших орков."
+
+#: scenarios/6_Final_assault.cfg:286
+msgid "We are no longer rebels. We are the true orcs, fighting for honor and glory. Only weak orcs are fighting for undead."
+msgstr "Теперь мы не восставшие, теперь мы истинные орки. Мы бьёмся за честь и славу. Только трусы сражаются за королеву."
+
+#: scenarios/6_Final_assault.cfg:290
+msgid "And this is Adena, the most craziest mage in these forests."
+msgstr "А это — Адена, самая сумасбродная магичка в этих лесах."
+
+#: scenarios/6_Final_assault.cfg:294
+msgid "Birds are flying over the trees."
+msgstr "Птицы клиньями летят над деревьями."
+
+#: scenarios/6_Final_assault.cfg:298
+msgid "What?"
+msgstr "Какой?"
+
+#: scenarios/6_Final_assault.cfg:302
+msgid "Fish love water."
+msgstr "Косяками рыбы обожают воду."
+
+#: scenarios/6_Final_assault.cfg:306
+msgid "Hey girl, what are you drinking??"
+msgstr "Эй, девочка, что ты употребляешь?"
+
+#: scenarios/6_Final_assault.cfg:310
+msgid "Enought. We shall attack the undead bastion."
+msgstr "Хватит уже. Пора штурмовать оплот мертвецов."
+
+#: scenarios/6_Final_assault.cfg:314
+msgid "Yeah! Orcs, make your swords ready, this time we shall broke the bones of weak cursed orcs and make a new graveyard from that undead. For honor and glory!"
+msgstr "Да! Орки, приготовьте свои мечи, переломаем кости собратьям-изменникам и отравим в могилы сбежавших оттуда мертвецов. За честь и славу!"
+
+#: scenarios/6_Final_assault.cfg:318
+msgid "Rabbit like fresh carrot and fox like fresh rabbit."
+msgstr "Кролику нравится свежая морковь, как лисе свежий кролик."
+
+#: scenarios/6_Final_assault.cfg:322
+msgid "Your silly forces cannot stop me! Try it, just try, and all your immortal elves will be dead. Or undead under my control! HA-HA-HA."
+msgstr "Вашим придурковатым силам не остановить меня! Попробуйте, только попробуйте, и все ваши эльфы обретут бессмертие. Мёртвое бессмертие! ХА-ХА-ХА!"
+
+#: scenarios/6_Final_assault.cfg:326
+msgid "Lahias is that you? We must rescue him!"
+msgstr "Это Лахиас? Мы должны спасти его!"
+
+#: scenarios/6_Final_assault.cfg:330
+msgid "Rescue? What the hell are you talking about, old ugly elf witch?"
+msgstr "Спасти? Провались ты в пропасть, что ты мелешь, старая эльфийская карга?"
+
+#: scenarios/6_Final_assault.cfg:334
+msgid "We cash elf wich we kill elvs with long ers! Trolls, move add crash, bash and ma theyr bones!"
+msgstr "Мы крушить эльвов, мы убивать эльвов с длинными ухами! Тролли, идите и крушите, бейте и рзайте эльвов!"
+
+#: scenarios/6_Final_assault.cfg:338
+msgid "Ma? You mean maul?"
+msgstr "Рзайте? Ты имел в виду терзайте?"
+
+#: scenarios/6_Final_assault.cfg:342
+msgid "Yeees! Kil ugly stinkingy elvs!"
+msgstr "Дааааа! Убить уродливых вонючих эльвов!"
+
+#: scenarios/6_Final_assault.cfg:351
+msgid "Assassins! To positions! No elf or foolish orc will enter the domain of our master!"
+msgstr "Убиииийцы! На позиции! Никто, ни эльф, ни глупый орк не подойдут к нашему командиру!"
+
+#: scenarios/6_Final_assault.cfg:357 scenarios/6_Final_assault.cfg:363
+#: scenarios/6_Final_assault.cfg:399 scenarios/6_Final_assault.cfg:405
+msgid "Elite assassin"
+msgstr "Элитный убийца"
+
+#: scenarios/6_Final_assault.cfg:369 scenarios/6_Final_assault.cfg:375
+#: scenarios/6_Final_assault.cfg:381 scenarios/6_Final_assault.cfg:387
+#: scenarios/7_Assassins.cfg:217 scenarios/7_Assassins.cfg:247
+#: scenarios/8_A_new_alliance.cfg:249
+msgid "Nameless one"
+msgstr "Безымянный"
+
+#: scenarios/6_Final_assault.cfg:393
+msgid "Spectres! Kill that mage!"
+msgstr "Призраки! Убейте того мага!"
+
+#: scenarios/6_Final_assault.cfg:411
+msgid "Death is burning! Living see both of the shores. Death itself is begging for life. To me, mighty warriors! Show your power! Assassins will be assassinated!"
+msgstr "Смерть горит! Живущие зрят с двух берегов. Сама смерть вопрошает о жизни. Ко мне, могучие воины! Явите свою силу! Убийцы будут убиты!"
+
+#: scenarios/6_Final_assault.cfg:417
+msgid "Hungry Spider"
+msgstr "Голодный Паук"
+
+#: scenarios/6_Final_assault.cfg:423
+msgid "Awful Spider"
+msgstr "Ужасный Паук"
+
+#: scenarios/6_Final_assault.cfg:429
+msgid "Dark Spider"
+msgstr "Темный Паук"
+
+#: scenarios/6_Final_assault.cfg:439
+msgid "Tunlua este se verle natalas!"
+msgstr "Tunlua este se verle natalas!"
+
+#: scenarios/6_Final_assault.cfg:443
+msgid "Ehm... no effect..."
+msgstr "Эмм... Никакого результата..."
+
+#: scenarios/6_Final_assault.cfg:447
+msgid "<b>TUNLUA ESTE SE VERLE NATALAS!</b>"
+msgstr "<b>TUNLUA ESTE SE VERLE NATALAS!</b>"
+
+#: scenarios/6_Final_assault.cfg:451
+msgid "Ehm... What about other spells?"
+msgstr "Эээ... А если попробовать другие заклинания?"
+
+#: scenarios/6_Final_assault.cfg:455
+msgid "Damn..."
+msgstr "Проклятье..."
+
+#: scenarios/6_Final_assault.cfg:464
+msgid "well.. i think it should be 'tundula' instead of 'tunlua'. Tundula este se verle natalas!"
+msgstr "Хорошо... Я думаю, нужно было произнести 'tundula' вместо 'tunlua'. Tundula este se verle natalas!"
+
+#: scenarios/6_Final_assault.cfg:474 scenarios/6_Final_assault.cfg:480
+#: scenarios/6_Final_assault.cfg:486
+msgid "Summoned drake"
+msgstr "Призванный дракон"
+
+#: scenarios/6_Final_assault.cfg:492
+msgid "Better, much better!"
+msgstr "Вот так намного лучше!"
+
+#: scenarios/6_Final_assault.cfg:496 scenarios/8_A_new_alliance.cfg:276
+msgid "Trees are living, trees are moving, trees are strong and very boring!"
+msgstr "Деревья живут, деревья идут, деревья сильны и в кольцо вас возьмут!"
+
+#: scenarios/6_Final_assault.cfg:502 scenarios/6_Final_assault.cfg:508
+#: scenarios/6_Final_assault.cfg:514 scenarios/6_Final_assault.cfg:520
+#: scenarios/8_A_new_alliance.cfg:283
+msgid "Summoned wose"
+msgstr "Призванный леший"
+
+#: scenarios/6_Final_assault.cfg:534
+msgid "It is a hard battle, maybe you can help us with some magic, Sidonia."
+msgstr "Это очень тяжёлая битва, возможно, ты могла бы нам чего наколдовать, Сидония."
+
+#: scenarios/6_Final_assault.cfg:538
+msgid "Help orc? Never!"
+msgstr "Помочь оркам? Никогда!"
+
+#: scenarios/6_Final_assault.cfg:542
+msgid "ARE YOU MAD? His father and brother help us greatly against undead. We will never be here without help of the brave orc warriors. Help them."
+msgstr "ТЫ В СВОЁМ УМЕ? Его отец и его брат, не жалея жизни, сражались против мертвецов. Мы не добрались бы сюда, если бы не храбрые орки. Помоги им, Сидония."
+
+#: scenarios/6_Final_assault.cfg:546
+msgid "Merhil is right, they made us a great service."
+msgstr "Мирхайл правильно говорит, они оказались нам большую услугу."
+
+#: scenarios/6_Final_assault.cfg:550
+msgid "What they said is true. My father sacrificed himself to save their lives. He was their ally. I do not lie to you, we are here to defeat undead and we need to do it together."
+msgstr "Они говорят правду. Мой отец пожертвовал собой, чтобы спасти их жизни. Он был верным союзником. Я не лгу тебе, здесь и сейчас мы должны победить мертвецов, а сделать это можно лишь совместными усилиями."
+
+#: scenarios/6_Final_assault.cfg:554
+msgid "I will never help you and your brutes!"
+msgstr "Никогда не стану помогать тебе и твоим скотам!"
+
+#: scenarios/6_Final_assault.cfg:559
+msgid "So this is my decision:"
+msgstr "Замолчи. Вот моё решение:"
+
+#: scenarios/6_Final_assault.cfg:561
+msgid "Sidonia, leave now. Run out of my sight!"
+msgstr "Сидония, уезжай немедленно. Исчезни с глаз моих!"
+
+#: scenarios/6_Final_assault.cfg:565
+msgid "Wait. Okay Samin, I... I..."
+msgstr "Подожди. Хорошо, Сеймэн, я... я..."
+
+#: scenarios/6_Final_assault.cfg:569
+msgid "I am sorry Trohak. All my life i've been fighting the orcs. I never believe that orcs will be our allies. I will summon mages, to fight under your banner. I am really sorry."
+msgstr "Мне жаль, Трохак. Всю свою жизнь я сражалась с орками. И даже подумать не могла, что однажды орки станут моими союзниками. Я призову магов, которые будут биться под вашими знамёнами. И мне правда очень жаль, что так получилось."
+
+#: scenarios/6_Final_assault.cfg:573
+msgid "We are fighting together, and this is a hard battle. Summon mages quickly, so we can clear your way to the chamber of that Death Knight."
+msgstr "Мы сражаемся вместе, и эта битва даётся нам нелегко. Чем быстрее в наших рядах появятся маги, тем быстрее мы расправимся с рыцарями смерти."
+
+#: scenarios/6_Final_assault.cfg:579
+msgid "Silifys"
+msgstr "Сайлифис"
+
+#: scenarios/6_Final_assault.cfg:586
+msgid "Harenn"
+msgstr "Харенн"
+
+#: scenarios/6_Final_assault.cfg:591
+msgid "Enemies will burn, my master."
+msgstr "Пламя поглотит твоих врагов, мой повелитель."
+
+#: scenarios/6_Final_assault.cfg:595
+msgid "Yeaaaaaaaaaaaah!"
+msgstr "Даааааа!"
+
+#: scenarios/6_Final_assault.cfg:601
+msgid "You orcs are much weaker than Sidonia. Go home or die!"
+msgstr "Вы, орки, просто бездарные воины, вы не ровня Сидонии. Убирайтесь домой или умрите!"
+
+#: scenarios/6_Final_assault.cfg:605
+msgid "Come orcs, our bretheren fight against elvish traitors. Help them and kill every elf!"
+msgstr "Давайте, орки, поможем нашим братьям биться против предателей эльфов. Ни один поганец от нас не уйдёт!"
+
+#: scenarios/6_Final_assault.cfg:609
+msgid "You will die first! Nar de tasimal su vere na morthipis!"
+msgstr "Но прежде умрёшь ты! Nar de tasimal su vere na morthipis!"
+
+#: scenarios/6_Final_assault.cfg:635
+msgid "Orcs are fleeing, both friends and enemies! I do not think that it was a wise decision."
+msgstr "Орки бегут, поджав хвосты, и враги, и наши бывшие союзники. Не думаю, что это было мудрым решением."
+
+#: scenarios/6_Final_assault.cfg:639
+msgid "Do not worry, Samin. My spells are much stronger then their blades. And enemy orcs are running out of my wrath, too. Now we only need to rescue Lahias."
+msgstr "Не волнуйся, Сеймэн. Мои заклинания куда более действенны, чем клинки трусливых воинов. А выступившие против нас орки так же испытают на себе мой гнев. Осталось спасти Лахиаса."
+
+#: scenarios/6_Final_assault.cfg:651
+msgid "Tahla tu ver, su len ten nar!"
+msgstr "Tahla tu ver, su len ten nar!"
+
+#: scenarios/6_Final_assault.cfg:687
+msgid "HA-HA! You cannot defeat me!"
+msgstr "ХА-ХА! Вам не одолеть меня!"
+
+#: scenarios/6_Final_assault.cfg:716
+msgid "Few corpses? Is it all?"
+msgstr "Несколько трупов? Это всё, что ли?"
+
+#: scenarios/6_Final_assault.cfg:720
+msgid "Do you want more? Okay, here you are!"
+msgstr "Недостаточно? Вот вам ещё немного!"
+
+#: scenarios/6_Final_assault.cfg:753
+msgid "So much death. So much agony. Only sun can feel the cold of his heart."
+msgstr "Такая большая смерть. Такая большая мука. Лишь солнце узреет хлад его сердца."
+
+#: scenarios/6_Final_assault.cfg:757
+msgid "I... I... feel paralised. My body is growing heavy. My power is disappearing."
+msgstr "Я... я... чувствую, как немеет моё тело. Мои руки опускаются. Моя сила покидает меня..."
+
+#: scenarios/6_Final_assault.cfg:765
+msgid "There is only one chance. Move that curse on me!"
+msgstr "У нас осталась только одна возможность. Перенаправь проклятие на меня!"
+
+#: scenarios/6_Final_assault.cfg:769
+msgid "Are you sure?"
+msgstr "Ты в самом деле хочешь этого?"
+
+#: scenarios/6_Final_assault.cfg:773
+msgid "Quickly, there is no much time!"
+msgstr "Быстрее, у нас нет времени на болтовню!"
+
+#: scenarios/6_Final_assault.cfg:777
+msgid "Talamen nu nakore pus tame hallore!"
+msgstr "Talamen nu nakore pus tame hallore!"
+
+#: scenarios/6_Final_assault.cfg:782
+msgid "AAAAARGH! It is a great pain. I think that it bursting my body into pieces. My journey ends he..."
+msgstr "ААААРГХ! Как больно! Моё тело будто разрывается на куски. Мой путь окончен..."
+
+#: scenarios/6_Final_assault.cfg:792
+msgid "She is dead! Nerelia is dead!"
+msgstr "Она мертва! Нерелия мертва!"
+
+#: scenarios/6_Final_assault.cfg:796
+msgid "Nerelia sacrifieced herself and saved your life. Come, we must rescue Lahias from his undead body, faster then he kill more elves!"
+msgstr "Жертвуя собой, Нерелия спасла твою жизнь. А мы должны освободить Лахиаса от его мёртвого тела. И чем быстрее, тем меньше эльфов он убьёт."
+
+#: scenarios/6_Final_assault.cfg:810 scenarios/6_Final_assault.cfg:877
+msgid "Citizens of Carcifall are sending 100 gold to each of us."
+msgstr "Жители Корифалла прислали каждому из нас по 100 золотых."
+
+#: scenarios/6_Final_assault.cfg:819
+msgid "Maybe some magic can help us reach that chamber quickly... nan su faleh ternista, la fel mer hil tufewea!"
+msgstr "Возможно, магия поможет нам быстрее добраться до того укрепления... nan su faleh ternista, la fel mer hil tufewea!"
+
+#: scenarios/6_Final_assault.cfg:830
+msgid "I also know one spell. Sure, my spells are not as good as yours, sister, but now I can try it. Let the light shine in the deepest caves! Narum al lumium, terri les minum!"
+msgstr "Я тоже знаю одно заклинание. Несомненно, мои заклинания не столь хороши, как твои, сестра, но я могу попытаться. Да прольётся легкий свет в самой тёмной из пещер! Narum al lumium, terri les minum!"
+
+#: scenarios/6_Final_assault.cfg:845
+msgid "Nerulaman su ver te tavelas, namen tal her su velle terfesion"
+msgstr "Nerulaman su ver te tavelas, namen tal her su velle terfesion"
+
+#: scenarios/6_Final_assault.cfg:856
+msgid "Summoned dragon"
+msgstr "Призванный дракон"
+
+#: scenarios/6_Final_assault.cfg:863
+msgid "I am sure that this dragon can help us."
+msgstr "Уверена, этот дракон нам поможет."
+
+#: scenarios/6_Final_assault.cfg:890
+msgid "Now you will be an elf once more. Nitruli merde selim alaman! "
+msgstr "Теперь ты вновь станешь эльфом. Nitruli merde selim alaman!"
+
+#: scenarios/6_Final_assault.cfg:912
+msgid "Aaaaagh! I feel... life! Is that you, Nerelia?"
+msgstr "Ааааагр! Я чувствую... жизнь! Ты ли это, Нерелия?"
+
+#: scenarios/6_Final_assault.cfg:916
+msgid "Close, very close. I am Sidonia, Sidonia Leafstel. Sister of Nerelia and Salim. And you are that one who killed the queen?"
+msgstr "Ты прав, и почти не ошибся. Я — Сидория. Сидория Лифстил, сестра Нерелии и Салима. А ты тот, кто убил королеву?"
+
+#: scenarios/6_Final_assault.cfg:920
+msgid "Yes, she changed her name to Tar Dem Lafanar. I killed her at the bridge. I am sorry, I am so sorry for that attack on Carcifall."
+msgstr "Да. Она сменила своё имя на Тар Дем Лафанар. Я убил её на мосту. Сожалею, я так сожалею о нападении на Корифалл!.."
+
+#: scenarios/6_Final_assault.cfg:924
+msgid "Evil is defeated, together we made it. And by the way, you saved my life, and now I repaied it to you. Heal the wounded, and than we can celebrate our success."
+msgstr "Зло повержено, мы вместе одолели его. И, между прочим, ты спас мою жизнь. Теперь я возвращаю свой долг. Исцелим раненных и сможем отпраздновать нашу удачу."
+
+#: scenarios/7_Assassins.cfg:5
+msgid "7) Assassins"
+msgstr "7) Убийцы"
+
+#: scenarios/7_Assassins.cfg:24
+msgid "After regaining his power, Lahias is looking for another adventure. Sometimes it's not needed to come far..."
+msgstr "Как только к Лахиасу возвратились силы, он направился искать новые приключения. А для этого иногда и ходить далеко не нужно..."
+
+#: scenarios/7_Assassins.cfg:55
+msgid "teamname^Rogues"
+msgstr "Бандиты"
+
+#: scenarios/7_Assassins.cfg:58
+msgid "Marma Natin"
+msgstr "Марма Натин"
+
+#: scenarios/7_Assassins.cfg:97
+msgid "Defeat Marma Natin"
+msgstr "Победите Марма Натина"
+
+#: scenarios/7_Assassins.cfg:109
+msgid "I feel... we are not alone here."
+msgstr "Мне кажется, мы здесь не одни."
+
+#: scenarios/7_Assassins.cfg:113
+msgid "Wind if blowing the trees apart, moon don't see that they are smart."
+msgstr "Ветер качает одинокие деревья, луна не видит, что они умны."
+
+#: scenarios/7_Assassins.cfg:117
+msgid "Rogues! Kill that elves!"
+msgstr "Прикончите этих эльфов!"
+
+#: scenarios/7_Assassins.cfg:121
+msgid "You bandits have no power here!"
+msgstr "У вас, бандиты, нет здесь никакой власти!"
+
+#: scenarios/7_Assassins.cfg:125
+msgid "This will be easy battle, we don't need to hire many warriors. Also this region looks poor, there are not many villages."
+msgstr "Победа будет лёгкой, полагаю, не стоит нанимать слишком много воинов. Да и край выглядит довольно бедно, деревень мало."
+
+#: scenarios/7_Assassins.cfg:130
+msgid "Destroy that bridge!"
+msgstr "Разрушьте тот мост!"
+
+#: scenarios/7_Assassins.cfg:136
+msgid "Rattek"
+msgstr "Раттек"
+
+#: scenarios/7_Assassins.cfg:142
+msgid "Rattek junior"
+msgstr "Раттек младший"
+
+#: scenarios/7_Assassins.cfg:163
+msgid "We must rebuild it and then defeat these bandits."
+msgstr "Чтобы победить бандитов, нам придётся восстановить мост."
+
+#: scenarios/7_Assassins.cfg:176
+msgid "First part of the bridge has been build."
+msgstr "Первая часть моста построена."
+
+#: scenarios/7_Assassins.cfg:189
+msgid "Third part of the bridge has been build."
+msgstr "Третья часть моста построена."
+
+#: scenarios/7_Assassins.cfg:193
+msgid "Now we can cross the river. Bridge don't need to be completed. Now we can pass."
+msgstr "Скоро мы окажемся на другом берегу. Мост ещё не закончен, но осталось немного."
+
+#: scenarios/7_Assassins.cfg:206
+msgid "Bridge has been completed."
+msgstr "Вот мост и построен."
+
+#: scenarios/7_Assassins.cfg:235
+msgid "Prepare to die!"
+msgstr "Готовьтесь сдохнуть!"
+
+#: scenarios/7_Assassins.cfg:270
+msgid "Bandits! Kill these foolish elves!"
+msgstr "Брательники! Убейте этих глупых эльфов!"
+
+#: scenarios/7_Assassins.cfg:274
+msgid "Nerve llaste mawea, tun nuvari sattheya!"
+msgstr "Nerve llaste mawea, tun nuvari sattheya!"
+
+#: scenarios/7_Assassins.cfg:306
+msgid "Don't kill me, I was only here to protect this part of the river."
+msgstr "Не убивайте меня, я только защищал этот участок реки."
+
+#: scenarios/7_Assassins.cfg:310
+msgid "Protect? Who is your master?"
+msgstr "Защищал? Кто твой хозяин?"
+
+#: scenarios/7_Assassins.cfg:314
+msgid "Why should I tell you?"
+msgstr "С какой такой стати я должен вам отвечать?"
+
+#: scenarios/7_Assassins.cfg:318
+msgid "Okay, you don't need to tell us anything. So now we can kill you slowly, really slowly. First, I will cut your arms..."
+msgstr "Ты прав. Ты ничего нам не должен говорить. И тогда мы сможем тебя медленно убивать. Ты осознаешь каждый этап расставания со своей жалкой жизнью. Для начала я потихоньку отпилю тебе руки..."
+
+#: scenarios/7_Assassins.cfg:322
+msgid "Stop! Well I will tell you! That ranger is my master. He send me here to kill you, elves."
+msgstr "Погоди! Не надо! Я всё расскажу. Вот этот рейнджер — мой хозяин. Это он послал меня сюда, чтобы всех вас, эльфов, перебить."
+
+#: scenarios/7_Assassins.cfg:326
+msgid "Who? Me?"
+msgstr "Кто? Я?"
+
+#: scenarios/7_Assassins.cfg:330
+msgid "Your brother, your brother! Terrel Leafstel."
+msgstr "Твой брат, твой брат Тиррэл Лифстил!"
+
+#: scenarios/7_Assassins.cfg:334
+msgid "I don't have any brother. Die now!"
+msgstr "Нет у меня никакого брата. Сдохни, тварь!"
+
+#: scenarios/7_Assassins.cfg:348
+msgid "Maybe he lies, but we will do the best if we will go north. Just to see what is going on."
+msgstr "Возможно, он лжец. Но, думаю, стоит отправиться дальше на север, чтобы разобраться в происходящем."
+
+#: scenarios/8_A_new_alliance.cfg:5
+msgid "8) A new alliance"
+msgstr "8) Новый союз"
+
+#: scenarios/8_A_new_alliance.cfg:19
+msgid "The Bandit outpost has beed defeated, but more than just a outpost is now ahead."
+msgstr "Бандиты на заставе были повержены, но застава — только начало неприятностей, которые ожидают наших героев."
+
+#: scenarios/8_A_new_alliance.cfg:22
+msgid "Rihen, the old but still very powerful dvarwish leader, rule this lands. He isn't accepted by the bandits, the new power in this region. Bandit forces are quickly growing, and dwarves cannot hold their own positions."
+msgstr "Гном Райхен хоть был старым, но всё ещё удерживал свой клан в подчинении. Власть в его землях оказалась в руках бандитов, но гномы не захотели склониться перед ними. Долго ли могло так продолжаться? Ведь силы бандитов возрастали, и гномам с каждым днём всё труднее было удерживать позиции."
+
+#: scenarios/8_A_new_alliance.cfg:25
+msgid "Recently, armies of Merhil entered this regions, seeking for bandit lord Terren Leafstel. Will they find, what are they looking for?"
+msgstr "Недавно армии Мирхайла вошли в эти земли в поисках бандитского вожака Террена Лифстила. Но найдут ли они то, что ищут?"
+
+#: scenarios/8_A_new_alliance.cfg:62
+msgid "Rihen"
+msgstr "Райхен"
+
+#: scenarios/8_A_new_alliance.cfg:78 scenarios/8_A_new_alliance.cfg:96
+#: scenarios/8_A_new_alliance.cfg:112 scenarios/8_A_new_alliance.cfg:127
+msgid "teamname^bandits"
+msgstr "бандиты"
+
+#: scenarios/8_A_new_alliance.cfg:81
+msgid "Gawin Galvino"
+msgstr "Говин Гальвано"
+
+#: scenarios/8_A_new_alliance.cfg:100
+msgid "female^Nadia Natin"
+msgstr "Надия Натин"
+
+#: scenarios/8_A_new_alliance.cfg:115
+msgid "Muhalin Stormcrow"
+msgstr "Мухайлин Штормкроу"
+
+#: scenarios/8_A_new_alliance.cfg:131
+msgid "female^Neria Stormcrow"
+msgstr "Нерия Штормкроу"
+
+#: scenarios/8_A_new_alliance.cfg:188
+msgid "Defeat Gawin Galvino"
+msgstr "Победите Говина Гальвано"
+
+#: scenarios/8_A_new_alliance.cfg:201
+msgid "Get away bandits. This lands don't belong to you!"
+msgstr "Умрите, поганые бандиты. Эти земли никогда не принадлежали вам!"
+
+#: scenarios/8_A_new_alliance.cfg:205
+msgid "Really? Hehehe..."
+msgstr "В самом деле? Хе-хе-хе-хе..."
+
+#: scenarios/8_A_new_alliance.cfg:209
+msgid "Elves has come. They are really stupid to come here. Come elves, come, or you will be not able to save your hero."
+msgstr "Ты гляди: эльфы припёрлись. Они чё, в сам деле такие тупые? Давайте, эльфы, давайте, топайте сюда, спасите своего героя."
+
+#: scenarios/8_A_new_alliance.cfg:213
+msgid "My brother? You mean Terrel Leafstel?"
+msgstr "Моего брата? Ты говоришь о Тиррэле Лифстиле?"
+
+#: scenarios/8_A_new_alliance.cfg:217
+msgid "Yeeeeeees!"
+msgstr "Дааа!"
+
+#: scenarios/8_A_new_alliance.cfg:221
+msgid "I don't have any brother! Terrel is even not an elvish name. We are here to kill you!"
+msgstr "Нет у меня никакого брата! Тиррэл даже имя не эльфийское. Прикончим их, да и всё дело!"
+
+#: scenarios/8_A_new_alliance.cfg:225
+msgid "Careful, this bandit is very dangerous."
+msgstr "Осторожней, эльф, этот бандит не обычная шушера. Он опасен."
+
+#: scenarios/8_A_new_alliance.cfg:229
+msgid "Well dwarven chieftain, will you fight this bandits as our ally?"
+msgstr "Хорошо, ты у гномов за старшего? В союзе с нами выступишь против этих мерзавцев?"
+
+#: scenarios/8_A_new_alliance.cfg:233
+msgid "I don't know, maybe... well, I will help you. But I don't have much army."
+msgstr "Не знаю... Может быть... Хм.. Я помогу вам. Вот только выставить на поле боя много воинов я не в состоянии. Нет у меня войска."
+
+#: scenarios/8_A_new_alliance.cfg:242
+msgid "That dwarf will no longer help you, HA-HA-HA"
+msgstr "Этот коротышка вам уже больше не поможет. ХА-ХА-ХА!"
+
+#: scenarios/8_A_new_alliance.cfg:263
+msgid "Help! Please!"
+msgstr "Помогите! Прошу вас!"
+
+#: scenarios/8_A_new_alliance.cfg:267
+msgid "HA-HA-HA? I think that I am recognizing that. Where did i hear that?"
+msgstr "ХА-ХА-ХА? Мне одному показалось это знакомым? Где же я это слышал?"
+
+#: scenarios/8_A_new_alliance.cfg:308
+msgid "Frederick"
+msgstr "Фредерик"
+
+#: scenarios/8_A_new_alliance.cfg:313
+msgid "This village is mine!"
+msgstr "Это моя деревня!"
+
+#: scenarios/8_A_new_alliance.cfg:326
+msgid "You think that you defeated me?"
+msgstr "Думаете, что победили меня?"
+
+#: scenarios/8_A_new_alliance.cfg:330 scenarios/Interlude2_a_new_way.cfg:95
+msgid "Yes, exactly."
+msgstr "Уверены."
+
+#: scenarios/8_A_new_alliance.cfg:334
+msgid "Now you will see, who really I am. Tas naggot merilanis!"
+msgstr "Теперь вы увидите моё истинное обличие! Tas naggot merilanis!"
+
+#: scenarios/8_A_new_alliance.cfg:342
+msgid "Dark Queen"
+msgstr "Тёмная Королева"
+
+#: scenarios/8_A_new_alliance.cfg:347
+msgid "Time to die, Sidonia. Bye bye! Also Merhil is living too long. Bye! All of you are going to die HA-HA-HA. Now rise, Lahias, my immortal hero!"
+msgstr "Пришло время смерти, Сидония. Прощай, прощай! И Мирхайл подзадержался на этом свете. Прощай и ты! Все вы обречены. ХА-ХА-ХА! Восстань, мой мёртвый герой!"
+
+#: scenarios/8_A_new_alliance.cfg:394
+msgid "Yes, my queen. My soul will always serve you."
+msgstr "Повинуюсь, моя королева. Моя душа будет вечно служить вам."
+
+#: scenarios/8_A_new_alliance.cfg:398
+msgid "I am immune to your magic. I am a leader of the grey rangers!"
+msgstr "Меня не напугать тёмными чарами. Я предводитель серых рейнджеров!"
+
+#: scenarios/8_A_new_alliance.cfg:402
+msgid "Very well then. Lahias, kill him!"
+msgstr "Ну и ладно. Лахиас, убей его!"
+
+#: scenarios/8_A_new_alliance.cfg:406
+msgid "With pleasure!"
+msgstr "С удовольствием!"
+
+#: scenarios/8_A_new_alliance.cfg:415
+msgid "It looks like he is summoned. I feel sad but I must kill him. I must kill him to stop this madness!"
+msgstr "Похоже, что он призван. Это печально, но я вынужден убить его. Я должен остановить это безумие!"
+
+#: scenarios/8_A_new_alliance.cfg:455
+msgid "Alone at last. My friends are dead - but the evil has been defeated."
+msgstr "Остался совсем один... Мои друзья мертвы... Но зло повержено."
+
+#: scenarios/Interlude_river_crossing.cfg:5
+msgid "Interlude - River crossing"
+msgstr "Интерлюдия Первая — Речная Переправа"
+
+#: scenarios/Interlude_river_crossing.cfg:22
+msgid "Lahias is on his own quest - trying to kill one of the liches. Will he be able to bring the end to the lich and avoid his own destruction?"
+msgstr "Лахиас пытается найти и убить одного из могучих личей. Сможет ли он положить конец бесчинству тёмных сил? Выдержит ли снедающее его разрушение?"
+
+#: scenarios/Interlude_river_crossing.cfg:81
+msgid "Defeat Tademanar"
+msgstr "Поражение Тейдеменара"
+
+#: scenarios/Interlude_river_crossing.cfg:85 utils/utils.cfg:30
+msgid "Death of Lahias"
+msgstr "Смерть Лахиаса"
+
+#: scenarios/Interlude_river_crossing.cfg:122
+msgid "Taste my steel and rest in pieces! You cannot avoid your innevitable death, dark mage!"
+msgstr "Отведай моей стали! Тебе не избежать смерти!"
+
+#: scenarios/Interlude_river_crossing.cfg:126
+msgid "Death? HA-HA-HA"
+msgstr "Смерти? ХА-ХА-ХА!"
+
+#: scenarios/Interlude_river_crossing.cfg:144
+msgid "It would be wise to wait until the dawn. The attacks of that lich will be much weaker during the day."
+msgstr "Будет лучше дождаться рассвета. Днём лич окажется куда слабее."
+
+#: scenarios/Interlude_river_crossing.cfg:157
+msgid "This is your end, dark mage!"
+msgstr "Вот и настал твой конец!"
+
+#: scenarios/Interlude_river_crossing.cfg:161
+msgid "What?! What is happening to me? Aaaaaargh! Every part of my body hurts me! I... I... I feel the dark energy!"
+msgstr "Что?! Что происходит со мной? Ааааааггх! Каждая часть моего тела наполнилась болью! Я... Я... Я чувствую тёмную энергию!"
+
+#: scenarios/Interlude2_a_new_way.cfg:5
+msgid "Interlude2 - A new way"
+msgstr "Интерлюдия Вторая — Новый Путь"
+
+#: scenarios/Interlude2_a_new_way.cfg:14
+msgid "Few days after the battle, Lahias feel that his powers are diminished. Strange combination of the quickly disappearing..."
+msgstr "Спустя несколько дней после битвы почувствовал Лахиас, что оставляют его силы. Одолела его немощь странная..."
+
+#: scenarios/Interlude2_a_new_way.cfg:61
+msgid "Choose a training for Lahias"
+msgstr "Выберите тренировку Лахиасу"
+
+#: scenarios/Interlude2_a_new_way.cfg:71
+msgid "Some dark magic is still inside me. I can feel it."
+msgstr "Во мне ещё остался яд тёмной магии. Я чувствую его."
+
+#: scenarios/Interlude2_a_new_way.cfg:75
+msgid "Can you describe it? Can you tell us what is still inside you from that undead curse?"
+msgstr "Ты можешь описать свои ощущения? Хочешь сказать, что мёртвое проклятие не отпустило тебя?"
+
+#: scenarios/Interlude2_a_new_way.cfg:79
+msgid "I'm not sure, it is very dark for me. Some sort of anger, rage. I have a calling, dark words inside my head. They tell me to kill someone, to drain the warm from bodies. It makes me very depressed. Still the same: revenge, slaughter, verrilium, assassinations..."
+msgstr "Я не уверен, но вокруг меня сгущается тьма. Она клубится и иногда её черты приобретают форму гнева. Безудержного гнева. В моей голове звучат странные голоса. Они призывают меня убивать, испить тепло поверженных тел. Я не могу так. Я сломлен и опустошён. Всё крутится и крутится: резня, месть, веррилиум, убийства..."
+
+#: scenarios/Interlude2_a_new_way.cfg:83
+msgid "Verrilium?"
+msgstr "Веррилиум?"
+
+#: scenarios/Interlude2_a_new_way.cfg:87
+msgid "From the past and to the future, long way awaiting you sure. Many death and too much living, fear of the dark is now killing..."
+msgstr "Из прошлого в будущее пролегает долгая дорога. Многие смерти и очень многие жизни, страх перед тьмой убивает..."
+
+#: scenarios/Interlude2_a_new_way.cfg:91
+msgid "You mean... ?"
+msgstr "Ты имеешь в виду... ?"
+
+#: scenarios/Interlude2_a_new_way.cfg:99
+msgid "Exactly what? What to the devil is going on? End this game, OK?"
+msgstr "О чём ты? Хватит уже этого бреда. Довольно играть, хорошо?"
+
+#: scenarios/Interlude2_a_new_way.cfg:103
+msgid "Verillium nur thel nannis, sefiel se na morstallin."
+msgstr "Verillium nur thel nannis, sefiel se na morstallin."
+
+#: scenarios/Interlude2_a_new_way.cfg:107
+msgid "Well, great, can someone tell me WHAT IS THIS ALL ABOUT?"
+msgstr "Ну хоть кто-нибудь объяснит мне, что всё это значит?"
+
+#: scenarios/Interlude2_a_new_way.cfg:111
+msgid "Verillium nur thel nannis, sefiel se na morstallin. Anyone who avoid death, will in time become her messenger."
+msgstr "Verillium nur thel nannis, sefiel se na morstallin. Любой, смерти избегший, посланником её станет."
+
+#: scenarios/Interlude2_a_new_way.cfg:115
+msgid "Whaaaat?"
+msgstr "Чтоооо?"
+
+#: scenarios/Interlude2_a_new_way.cfg:119
+msgid "You will be one of the bad guys, if I understand it well."
+msgstr "Если я правильно понял, ты станешь одним из плохих парней."
+
+#: scenarios/Interlude2_a_new_way.cfg:123
+msgid "Don't worry. Now you can be a very powerful elf. And on the right side of course. You are the one who will defeat the great darkness. You are a part of the ancient propheny: Young and brave, but full of hate, whenever will find a blade, end of circle end of pain, it will become his quest main."
+msgstr "Не переживай понапрасну. Теперь ты могущественный эльф. И твоё дело правое. Ты победитель ужасающей тьмы. Ты часть древнего пророчества: храбрый и молодой, но ненависти исполненный, каждый раз клинок из ножен извлекая, замыкает он круг, прекращает он боль, и искать ему избавления."
+
+#: scenarios/Interlude2_a_new_way.cfg:127
+msgid "Me? I will become a great hero?"
+msgstr "Обо мне, что ли? Я стану великим героем?"
+
+#: scenarios/Interlude2_a_new_way.cfg:131
+msgid "Nerelia was a priestess of the very old order. She was born to make you safe, until you will be strong enought to..."
+msgstr "Нерелия была древней жрицей. Она вновь пришла в этот мир оберегать тебя, пока ты не наберёшься достаточно сил, чтобы..."
+
+#: scenarios/Interlude2_a_new_way.cfg:135
+msgid "To deal with a great evil?"
+msgstr "...Одолеть великое зло?"
+
+#: scenarios/Interlude2_a_new_way.cfg:140
+msgid "Yes. Now, you must gather your strengh as quickly as possible. Choose someone from us, who will be your trainer."
+msgstr "Да. Теперь тебе надлежит восстановить свои силы. Выбери одного из нас наставником."
+
+#: scenarios/Interlude2_a_new_way.cfg:145
+msgid "Very well, my choice is:"
+msgstr "Хорошо. Вот мой выбор:"
+
+#: scenarios/Interlude2_a_new_way.cfg:148
+msgid "Adena"
+msgstr "Адена"
+
+#: scenarios/Interlude2_a_new_way.cfg:152
+msgid "Woods have long stories, full of honor and fear. With my aid, you will be prepared to create great flames and burn your enemies. You will become a mage."
+msgstr "Леса полны нескончаемых песен о чести и страхе. С моей помощью ты овладеешь великим пламенем, которым испепелишь врагов своих. Быть тебе магом."
+
+#: scenarios/Interlude2_a_new_way.cfg:173
+msgid "Want to know, what a real leader need? It's respect. You will be strong as a rock, and your warriors will want to be like you Lahias, Elvish Champion."
+msgstr "Хотите знать, в ком нуждаются воины? Им нужен пример доблести и отваги. Ты станешь твёрдым, как скала, и твои воины пойдут за тобой на край света, Лахиас, эльфийский чемпион."
+
+#: scenarios/Interlude2_a_new_way.cfg:193
+msgid "Woods are dark during night, full of fear. Become a fearless prowler, take the powers of the moon. From today, you will be one of the most powerful silver rangers."
+msgstr "Ночью леса окутаны тьмой и полны страха. Стань бесстрашным скитальцем, используй лунную силу. С дня сегодняшнего быть тебе могучим серебряным рейнджером."
+
+#: scenarios/Interlude2_a_new_way.cfg:213
+msgid "As you wish, my little hero. With your fighting ability and my magic power, you will become a powerful elvish lord."
+msgstr "Как пожелаешь, мой маленький герой. Объединив твою волю к борьбе и мою волшебную власть, ты станешь самым великим эльфийским лордом."
+
+#: scenarios/Interlude2_a_new_way.cfg:231
+msgid "Great! Nobody can stand in my way now!"
+msgstr "Великолепно! Теперь никто не станет на моём пути!"
+
+#: utils/amla.cfg:27
+msgid "Learn how to Backstab your enemy"
+msgstr "Научитесь наносить врагам удар в спину"
+
+#: utils/amla.cfg:43
+msgid "Learn using the Shadows as cover"
+msgstr "Научитесь укрываться в тени"
+
+#: utils/amla.cfg:56
+msgid "a better archer"
+msgstr "лучший стрелок"
+
+#: utils/amla.cfg:70
+msgid "a better swordsman"
+msgstr "лучший фехтовальщик"
+
+#: utils/deaths.cfg:12
+msgid "Death? Do you hear me? This is NOT my time! Not yet! Arghhh!"
+msgstr "Смерть? Внемли мне! Не пришло ещё моё время! Ещё нет! Аргхххх!"
+
+#: utils/deaths.cfg:28
+msgid "I am taking some rest now... Far from the sounds of battle and bloodhirsty beasts... Farewell, my friends!"
+msgstr "Я ухожу на покой... Далеко от звуков сражения и кровожадных убийц... Прощайте, мои друзья!!"
+
+#: utils/deaths.cfg:45
+msgid "I'm too young for such an unhappy end! Nooo..."
+msgstr "Я слишком молод для такого конца! Нет..."
+
+#: utils/deaths.cfg:61
+msgid "It is over, who will now rule Carcifall?"
+msgstr "Всё кончено. Кто теперь будет править Корифаллом?"
+
+#: utils/deaths.cfg:78
+msgid "Our tactics was wrong. There is no hope, I failed you, elves."
+msgstr "Наша тактика оказалась ошибочной. Надежда потеряна. Я повёл вас, эльфы..."
+
+#: utils/deaths.cfg:94
+msgid "World is darkening, where are my magic crannberies?"
+msgstr "Мир погружается во мрак, где моя волшебная земляника?"
+
+#: utils/traits.cfg:6
+msgid "haughty"
+msgstr "надменный"
+
+#: utils/traits.cfg:25
+msgid "gullible"
+msgstr "легковерный"
+
+#: utils/traits.cfg:58
+msgid "boastful"
+msgstr "хвастливый"
+
+#: utils/traits.cfg:81
+msgid "moody"
+msgstr "капризный"
+
+#: utils/traits.cfg:110
+msgid "fussy"
+msgstr "суетливый"
+
+#: utils/utils.cfg:11
+msgid "Death of Merhil"
+msgstr "Смерть Мирхайла"
+
+#: utils/utils.cfg:20
+msgid "Death of Nerelia"
+msgstr "Смерть Нерелии"
+
+#: utils/utils.cfg:40
+msgid "Death of Samin"
+msgstr "Смерть Сеймэна"
+
+#: utils/utils.cfg:49
+msgid "Death of Sidonia"
+msgstr "Смерть Сидонии"
+
+#: utils/utils.cfg:58
+msgid "Death of Adena"
+msgstr "Смерть Адении"
+
+#: units/Elvish_Hunter.cfg:5
+msgid "Elvish Hunter"
+msgstr "Охотник"
+
+#: units/Elvish_Hunter.cfg:31
+msgid "The elvish militia is mainly composed of civilians who have dropped their bows in favour of entangling unwary oponents using their bolas, and then finish them off with their swords. They are trained to scour the woods, hills and mountains for prey and enemies."
+msgstr "Эльфийское ополчение составлено в основном из работяг-эльфов, которые запутывают противников болами и после добивают их с помощью меча. Они отлично подходят для того, чтобы рыскать в лесах, на холмах и горах при выискивании врага."
+
+#: units/Elvish_Hunter.cfg:39 units/Elvish_Prowler.cfg:41
+#: units/Elvish_Trapper.cfg:40
+msgid "sword"
+msgstr "меч"
+
+#: units/Elvish_Hunter.cfg:49 units/Elvish_Prowler.cfg:51
+#: units/Elvish_Trapper.cfg:50
+msgid "bolas"
+msgstr "болы"
+
+#: units/Elvish_Hunter.cfg:158
+msgid "female^Elvish Hunter"
+msgstr "Охотница"
+
+#: units/Elvish_Prowler.cfg:5
+msgid "Elvish Prowler"
+msgstr "Странник"
+
+#: units/Elvish_Prowler.cfg:35
+msgid "Elvish Prowlers sneak across the woods, searching out enemies and protecting their people. They are trained to slip past enemies unnoticed and flank them. The combination of their bolas and blades allows them to cripple and kill opponents with alarming ease."
+msgstr "Эльфийские странники пробираются сквозь лесные чащи в поисках врагов своего народа. Незаметно подкрадываются они к своей жертве, и так же незаметно покидают место убийства. Сочетание бол и острых клинков позволяет им легко расправляться с недругами."
+
+#: units/Elvish_Prowler.cfg:148
+msgid "female^Elvish Prowler"
+msgstr "Странница"
+
+#: units/Elvish_Trapper.cfg:5
+msgid "Elvish Trapper"
+msgstr "Ловчий"
+
+#: units/Elvish_Trapper.cfg:34
+msgid "Elvish Trappers patrol the woods; they are trained to avoid enemies when it is advantageous. They can cripple opponents with their bolas and are deadly with their swords."
+msgstr "Ловчие эльфов берегут покой родных лесов. Когда это выгодно, они могут избежать встречи с противником, а после, дождавшись подходящего момента, использовать против него меч или болы."
+
+#: units/Elvish_Trapper.cfg:129
+msgid "female^Elvish Trapper"
+msgstr "Ловчая"
